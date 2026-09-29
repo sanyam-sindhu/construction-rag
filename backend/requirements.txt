@@ -1,0 +1,18 @@
+# core
+pymupdf>=1.24
+rank-bm25>=0.2.2
+sentence-transformers>=3.3
+torch>=2.3
+numpy>=1.26
+fastapi>=0.115
+uvicorn[standard]>=0.30
+httpx>=0.27
+pydantic>=2.7
+# fine-tuning
+datasets>=2.20
+accelerate>=0.33
+# OCR (only needed to re-run OCR; results are cached in data/processed/ocr/)
+pytesseract>=0.3.10
+pillow>=10
+# optional: Claude as the answer generator (LLM_BACKEND=anthropic)
+# anthropic>=0.40

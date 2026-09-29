@@ -1,0 +1,684 @@
+{"chunk_id": "is456-amd-p11-0", "query": "What changes were made to the referencing of American concrete standards in the latest revision of the code regarding reinforcement?", "lang": "en"}
+{"chunk_id": "is456-amd-p11-0", "query": "Tremie concrete placement: What slump range indicates suitable conditions for use?", "lang": "en"}
+{"chunk_id": "is456-amd-p11-0", "query": "For pumped concrete, what factor dictates the size of the vibrator needed to ensure proper consolidation?", "lang": "en"}
+{"chunk_id": "is456-amd-p12-1", "query": "What’s the revised formula for calculating reinforcement area in concrete design, specifically addressing the relationship between steel area and concrete dimensions?", "lang": "en"}
+{"chunk_id": "is456-amd-p12-1", "query": "Reinforcement detailing – tension zone symbols and definitions", "lang": "en"}
+{"chunk_id": "is456-amd-p12-1", "query": "How does the diagram showing the rectangular tension zone relate to the compression zone explanation in Annex H?", "lang": "en"}
+{"chunk_id": "is456-amd-p11-1", "query": "When working with tremie concrete, are vibration techniques mandated, and what other considerations impact the necessary support?", "lang": "en"}
+{"chunk_id": "is456-amd-p11-1", "query": "Reinforcement bar spacing and section thickness – how do these factors influence the calculation of concrete cover?", "lang": "en"}
+{"chunk_id": "is456-amd-p11-1", "query": "For concrete strength testing, what specific requirements exist regarding the number of tests needed to establish a reliable mean value, and what standards should be referenced?", "lang": "en"}
+{"chunk_id": "is456-amd-p12-0", "query": "What specific diameter adjustments are required for concrete cover measurements across various sections of the IS 456:2000 amendment?", "lang": "en"}
+{"chunk_id": "is456-amd-p12-0", "query": "Footing depth calculations – how does the specification change the required depth for soils versus other ground conditions?", "lang": "en"}
+{"chunk_id": "is456-amd-p12-0", "query": "Regarding load combinations, what change impacts the value assigned to ‘DL + IL’ in the design calculations?", "lang": "en"}
+{"chunk_id": "is456-amd-p12-2", "query": "Who are the key representatives involved in the revision process for IS 456:2000, specifically focusing on the involvement of government agencies and specialized construction technology firms?", "lang": "en"}
+{"chunk_id": "is456-amd-p12-2", "query": "Concrete Technology, Research and Design - what organizations and individuals were represented on the committee?", "lang": "en"}
+{"chunk_id": "is456-amd-p12-2", "query": "Can you list the consultants and departments contributing to the development of the updated building code, including those from the Central Public Works Department and research institutions?", "lang": "en"}
+{"chunk_id": "is456-amd-p13-0", "query": "Who are the key organizations and individuals involved in the review and amendment process for IS 456:2000 related to Gujarat Ambuja Cements Ltd and associated research institutions?", "lang": "en"}
+{"chunk_id": "is456-amd-p13-0", "query": "Ambuja Cements, CSIR-SERC, and the National Test House – which entities contributed to the revisions?", "lang": "en"}
+{"chunk_id": "is456-amd-p13-0", "query": "Considering the involvement of organizations like the Central Water Commission and Larsen & Toubro, what areas of concrete construction expertise were represented in the updates to the standard?", "lang": "en"}
+{"chunk_id": "is456-amd-p13-2", "query": "Who are the key personnel involved in the project design and supervision, specifically detailing the organizations they represent – Indian Rayon, Associated Cement Companies, and Central Soil and Materials Research Station?", "lang": "en"}
+{"chunk_id": "is456-amd-p13-2", "query": "Chennai, Pune, and Mumbai – which locations are represented by the listed engineering teams?", "lang": "en"}
+{"chunk_id": "is456-amd-p13-2", "query": "Can you identify the project's design consultants based on their affiliations with Indian Rayon, Associated Cement Companies, and the Central Soil and Materials Research Station?", "lang": "en"}
+{"chunk_id": "is456-amd-p13-1", "query": "Who are the key personnel and organizations represented on the Central Board of Irrigation & Power, and what specific roles do they hold within the construction oversight process?", "lang": "en"}
+{"chunk_id": "is456-amd-p13-1", "query": "Larsen & Toubro, Sumi Hospital Services, and Gammon India – list the construction firms present.", "lang": "en"}
+{"chunk_id": "is456-amd-p13-1", "query": "If I'm a site engineer needing to verify the involvement of the Geological Survey of India and the Public Works Department in a project, what specific entities are documented as having representatives associated with this document?", "lang": "en"}
+{"chunk_id": "is456-amd-p15-0", "query": "Who comprised the revision panel for the amendment to IS 456:2000, detailing the participating organizations and individuals involved in the process?", "lang": "en"}
+{"chunk_id": "is456-amd-p15-0", "query": "CSIR, Gammon India, and Engineers India Ltd – list the key firms represented on the committee reviewing the changes.", "lang": "en"}
+{"chunk_id": "is456-amd-p15-0", "query": "Can you identify the representatives from the National Council for Cement and Building Materials, and the Ministry of Surface Transport, who contributed to the revisions?", "lang": "en"}
+{"chunk_id": "is456-amd-p15-1", "query": "Who are the key individuals and organizations involved in the revision process of IS 456:2000, specifically those contributing expertise concerning cement and building materials?", "lang": "en"}
+{"chunk_id": "is456-amd-p15-1", "query": "Cement and Building Materials Council, Gammon India Ltd, and Reoot (CED2) – list the companies represented.", "lang": "en"}
+{"chunk_id": "is456-amd-p15-1", "query": "Can you identify the Bangalore-based institution and address associated with the Chandrika group’s involvement in the IS 456 revision?", "lang": "en"}
+{"chunk_id": "is456-amd-p14-0", "query": "Who were the key personnel involved in the formulation of IS 456:2000, specifically detailing the representation from organizations like the Bureau of Indian Standards and the National Council for Cement and Building Materials?", "lang": "en"}
+{"chunk_id": "is456-amd-p14-0", "query": "Concrete Subcommittee members and representatives from Ambuja Cements Ltd, Gujarat Ambuja Cements Ltd, and Centra! Soil and Materials Research Station.", "lang": "en"}
+{"chunk_id": "is456-amd-p14-0", "query": "Can you list the various organizations and their personnel contributing to the revision of the building code, including those from the Ministry of Railways and the Central Public Works Department?", "lang": "en"}
+{"chunk_id": "is456-amd-p14-1", "query": "Who are the key personnel listed as contributors and alternates involved in the development and revisions related to IS 456:2000, particularly those representing organizations like the Gannon Dunkerley and Co Ltd, or the Central Building Research Institute?", "lang": "en"}
+{"chunk_id": "is456-amd-p14-1", "query": "Cement and Building Materials Council, Hindustan Prefab Limited, and the Associated Cement Companies – are these entities involved in the standards development process?", "lang": "en"}
+{"chunk_id": "is456-amd-p14-1", "query": "Can you identify the individuals associated with the Public Works Department, Army Headquarters, and Central Road Research Institute, given their roles overseeing construction projects and research in India?", "lang": "en"}
+{"chunk_id": "is456-amd-p16-0", "query": "What specific cement alternative, referencing IS 15388, is permitted for use in reinforced concrete mixes, and what's the recommended range of its incorporation relative to the total cement content?", "lang": "en"}
+{"chunk_id": "is456-amd-p16-0", "query": "Silica fume – can it replace cement?", "lang": "en"}
+{"chunk_id": "is456-amd-p16-0", "query": "When specifying concrete cover for structural elements, should it be 'or' 'on'?", "lang": "en"}
+{"chunk_id": "is456-0-0", "query": "What are the key changes introduced in the latest revision of the Indian Standard for plain and reinforced concrete, particularly regarding the increased emphasis on concrete durability and its design considerations?", "lang": "en"}
+{"chunk_id": "is456-0-0", "query": "durability concrete design", "lang": "en"}
+{"chunk_id": "is456-0-0", "query": "How has the acceptance criteria for concrete mixes been updated compared to previous versions, referencing relevant British Standards?", "lang": "en"}
+{"chunk_id": "is456-amd-p16-1", "query": "What is the updated specification for pulverized fuel ash now permitted for use in concrete, particularly as a pozzolana replacement?", "lang": "en"}
+{"chunk_id": "is456-amd-p16-1", "query": "Silica fume – what's the latest BIS standard for its use in construction materials?", "lang": "en"}
+{"chunk_id": "is456-amd-p16-1", "query": "Need to confirm the current IS specification for pulverized fuel ash; specifically, is IS 3812:2003 the correct version to reference regarding its application as a pozzolana?", "lang": "en"}
+{"chunk_id": "is456-amd-p17-0", "query": "What are the specific dimensions and load-bearing capacity requirements for reinforcing bars in case number 2 of Table 26, referencing the discontinuous edge condition?", "lang": "en"}
+{"chunk_id": "is456-amd-p17-0", "query": "Reinforcement bar diameter changes – what’s the new value to use instead of 39.1° when calculating minimum cover?", "lang": "en"}
+{"chunk_id": "is456-amd-p17-0", "query": "For concrete cover calculations, should 'Myie' be replaced with 'Min' and what's the specified width for the wet reinforcement?", "lang": "en"}
+{"chunk_id": "is456-0-3", "query": "How has the design approach for concrete walls evolved in the latest version of the Indian Standard code, particularly concerning horizontal shear resistance?", "lang": "en"}
+{"chunk_id": "is456-0-3", "query": "Shear strength calculations near supports – what’s the updated approach?", "lang": "en"}
+{"chunk_id": "is456-0-3", "query": "Considering fire protection and durability, what changes have been made to cover requirements for reinforced concrete structures?", "lang": "en"}
+{"chunk_id": "is456-0-4", "query": "What foundational standards and international codes of practice are referenced within the specification for concrete design and construction?", "lang": "en"}
+{"chunk_id": "is456-0-4", "query": "Concrete mix design referencing – what established guidelines are used to ensure compliance?", "lang": "en"}
+{"chunk_id": "is456-0-4", "query": "When rounding off test results for concrete, which standard rules for numerical precision should be applied, mirroring those outlined in IS 2:1960?", "lang": "en"}
+{"chunk_id": "is456-0-1", "query": "What changes have been made to the concrete grading system and acceptance criteria, specifically regarding the inclusion of higher grade concrete like M40 and how does this relate to testing procedures?", "lang": "en"}
+{"chunk_id": "is456-0-1", "query": "Superplasticizers and sulphate-resistant cements – what's the updated approach to admixture usage and cement selection?", "lang": "en"}
+{"chunk_id": "is456-0-1", "query": "When designing a reinforced concrete structure exposed to 'very severe' or 'extreme' environmental conditions, what key factors (e.g., cover depth, concrete quality) must be considered to ensure durability?", "lang": "en"}
+{"chunk_id": "is456-0-2", "query": "How does the IS 456:2000 standard address the protection of concrete structures against aggressive chemical environments like sulphate attack, and what specific control measures are outlined concerning concrete quality and water-cement ratios?", "lang": "en"}
+{"chunk_id": "is456-0-2", "query": "Concrete cover requirements & chloride limits", "lang": "en"}
+{"chunk_id": "is456-0-2", "query": "When designing a reinforced concrete slab supporting lateral loads, what adjustments to support moments should be considered, and how does the stability index impact the determination of compression member sway?", "lang": "en"}
+{"chunk_id": "is456-1-0", "query": "What types of concrete structures does this standard specifically address regarding strength calculations?", "lang": "en"}
+{"chunk_id": "is456-1-0", "query": "Reinforcement ignored?", "lang": "en"}
+{"chunk_id": "is456-1-0", "query": "When would I need to consult other standards besides this one for structures like bridges or liquid retaining walls?", "lang": "en"}
+{"chunk_id": "is456-2-0", "query": "Which Indian Standards are incorporated into the requirements of this document, and how are they considered part of its overall specifications?", "lang": "en"}
+{"chunk_id": "is456-2-0", "query": "What's the status of referenced IS standards – are they current, or should we check for updates?", "lang": "en"}
+{"chunk_id": "is456-2-0", "query": "If I'm building a concrete structure, which Indian Standards should I consult to ensure compliance, given that they may be revised periodically?", "lang": "en"}
+{"chunk_id": "is456-3-0", "query": "What reference standards are used for defining key terms within the IS 456:2000 specification?", "lang": "en"}
+{"chunk_id": "is456-3-0", "query": "IS 4845 and IS 646 (parts 1-12) – which standards provide the primary definitions?", "lang": "en"}
+{"chunk_id": "is456-3-0", "query": "If I’m unsure about the meaning of a term related to concrete design, to which Indian standards should I consult for a standard definition?", "lang": "en"}
+{"chunk_id": "is456-4-0", "query": "What are the specific measurements – like breadth, depth, and diameter – that are defined and used consistently throughout the standard for describing beam dimensions, column sizes, and slab depths?", "lang": "en"}
+{"chunk_id": "is456-4-0", "query": "Effective depth of beam", "lang": "en"}
+{"chunk_id": "is456-4-0", "query": "If I'm calculating the load-bearing capacity of a concrete column with a compressed face, how do I determine the 'depth of compression reinforcement' from that face, and what does it relate to?", "lang": "en"}
+{"chunk_id": "is456-4-1", "query": "What dimensions are required to define the length of a slab's sides and the distance between supports for calculating moments in a beam?", "lang": "en"}
+{"chunk_id": "is456-4-1", "query": "Beam span, Bending moment, Modular ratio", "lang": "en"}
+{"chunk_id": "is456-4-1", "query": "If we’re designing a continuous slab with spans of 3 meters and 5 meters, how do we determine the appropriate spacing for stirrups considering the modular ratio and the potential for torsional stresses?", "lang": "en"}
+{"chunk_id": "is456-5-0", "query": "What cement types are permitted for use in reinforced concrete structures according to IS 456, and what standards do they need to meet?", "lang": "en"}
+{"chunk_id": "is456-5-0", "query": "Fly ash cement – what IS standards apply to its use?", "lang": "en"}
+{"chunk_id": "is456-5-0", "query": "When using low heat Portland cement, what specific considerations are vital for formwork removal on a concrete job site?", "lang": "en"}
+{"chunk_id": "is456-6-0", "query": "When can high alumina cement or supersulphated cement be utilized on a project, and what’s the necessary approval process?", "lang": "en"}
+{"chunk_id": "is456-6-0", "query": "Pozzolanic materials – what standards must they meet for use with cement?", "lang": "en"}
+{"chunk_id": "is456-6-0", "query": "If a contractor wants to use a cement type not explicitly listed in an Indian Standard Specification, how do they proceed to ensure concrete quality?", "lang": "en"}
+{"chunk_id": "is456-7-0", "query": "What are the acceptable grades of supplementary cementitious materials, like fly ash and silica fume, that can be incorporated into concrete mixes according to IS 456:2000, and what blending procedures are required for optimal performance?", "lang": "en"}
+{"chunk_id": "is456-7-0", "query": "Fly ash & silica fume – cement replacement percentages?", "lang": "en"}
+{"chunk_id": "is456-7-0", "query": "When using rice husk ash in concrete, how should the material's performance be assessed, and what key properties (like water demand and shrinkage) need to be specifically investigated before use on a construction site?", "lang": "en"}
+{"chunk_id": "is456-8-0", "query": "What are the acceptable fineness ranges and production methods for utilizing Metakaoline as a pozzolanic additive in concrete mixes?", "lang": "en"}
+{"chunk_id": "is456-8-0", "query": "Slag replacement – what specific IS standard governs granulated blast furnace slag used in concrete, and what contaminants must be avoided?", "lang": "en"}
+{"chunk_id": "is456-8-0", "query": "When considering concrete mixes with aggregates like slag or crushed brick, what sulfate content limit and water absorption rate must be adhered to for plain concrete applications?", "lang": "en"}
+{"chunk_id": "is456-9-0", "query": "When using heavy or light aggregates like sintered fly ash, what level of verification is needed to ensure the concrete mix remains structurally sound?", "lang": "en"}
+{"chunk_id": "is456-9-0", "query": "Aggregate type approval?", "lang": "en"}
+{"chunk_id": "is456-9-0", "query": "If a project is incorporating bloated clay aggregates, what documentation should be reviewed to determine if adjustments to the design specifications are necessary?", "lang": "en"}
+{"chunk_id": "is456-10-0", "query": "What’s the maximum aggregate size permissible for concrete, and how does it relate to the member's thickness?", "lang": "en"}
+{"chunk_id": "is456-10-0", "query": "aggregate size for ribs", "lang": "en"}
+{"chunk_id": "is456-10-0", "query": "Can I use 40mm aggregate in a large concrete section, and what factors influence that decision regarding flowability?", "lang": "en"}
+{"chunk_id": "is456-11-0", "query": "What are the conditions for using all-in-aggregate in concrete mixes, and who has the final say on its approval?", "lang": "en"}
+{"chunk_id": "is456-11-0", "query": "Water purity testing: How is potable water's suitability for concrete determined, and which standards dictate the acceptable alkali levels?", "lang": "en"}
+{"chunk_id": "is456-11-0", "query": "If concrete strength development is questionable, what tests should be performed to assess the water's impact on the concrete's initial setting and compressive strength?", "lang": "en"}
+{"chunk_id": "is456-12-0", "query": "What are the specific requirements for water sampling and storage during concrete testing to ensure accurate strength assessments, considering potential seasonal water quality variations?", "lang": "en"}
+{"chunk_id": "is456-12-0", "query": "Water pH levels", "lang": "en"}
+{"chunk_id": "is456-12-0", "query": "If we're using site water for concrete, how do we verify its suitability for strength testing – specifically, what's the minimum compressive strength requirement compared to using distilled water, and what about the initial setting time?", "lang": "en"}
+{"chunk_id": "is456-13-0", "query": "What are the limits for organic, inorganic, sulfate, and chloride content when mixing concrete with seawater, specifically concerning reinforced concrete versus plain concrete?", "lang": "en"}
+{"chunk_id": "is456-13-0", "query": "Seawater curing: What contaminants must be avoided when using seawater for concrete surface treatment?", "lang": "en"}
+{"chunk_id": "is456-13-0", "query": "If I'm considering curing concrete with seawater on a project, what specific standards regarding admixture usage should I be reviewing to ensure quality control?", "lang": "en"}
+{"chunk_id": "is456-14-0", "query": "How should admixtures be tested to ensure they don't negatively impact concrete durability or cause corrosion?", "lang": "en"}
+{"chunk_id": "is456-14-0", "query": "Reinforcement cleaning - what specific contaminants require removal from steel bars?", "lang": "en"}
+{"chunk_id": "is456-14-0", "query": "When using multiple admixtures in concrete, what kind of testing is needed to verify their combined effect and prevent issues?", "lang": "en"}
+{"chunk_id": "is456-15-0", "query": "When would coating reinforcement be necessary for concrete structures, and what external resources provide further guidance on these specialized applications?", "lang": "en"}
+{"chunk_id": "is456-15-0", "query": "Steel modulus of elasticity", "lang": "en"}
+{"chunk_id": "is456-15-0", "query": "What are the accepted values for steel yield strength according to Indian Standards for reinforced concrete design?", "lang": "en"}
+{"chunk_id": "is456-16-0", "query": "What concrete strength classifications are outlined, and how is the 'characteristic strength' determined?", "lang": "en"}
+{"chunk_id": "is456-16-0", "query": "Concrete grade for simple foundations – what are the permissible options?", "lang": "en"}
+{"chunk_id": "is456-16-0", "query": "When should the 28-day characteristic strength be used for design calculations regarding concrete?", "lang": "en"}
+{"chunk_id": "is456-18-0", "query": "How can I determine the flexural strength of concrete, specifically when needing to estimate it from a known compressive strength?", "lang": "en"}
+{"chunk_id": "is456-18-0", "query": "What’s the typical modulus of elasticity value for concrete, considering short-term static conditions and potential variations?", "lang": "en"}
+{"chunk_id": "is456-18-0", "query": "Considering humidity and temperature, how does the amount of water in the concrete mix impact overall shrinkage measurements on a construction site?", "lang": "en"}
+{"chunk_id": "is456-17-0", "query": "What compressive strength values are associated with concrete grades like M20, M25, and M30, specifically regarding 150mm cubes after 28 days?", "lang": "en"}
+{"chunk_id": "is456-17-0", "query": "M60 concrete – is its strength suitable for structural design, or are there limitations to consider?", "lang": "en"}
+{"chunk_id": "is456-17-0", "query": "When designing with concrete grades above M55, how should a contractor verify the strength values if relying on data outside the IS 456 standard?", "lang": "en"}
+{"chunk_id": "is456-20-0", "query": "What's the anticipated coefficient of thermal expansion for concrete structures utilizing quartzite aggregate, considering factors like humidity and section size?", "lang": "en"}
+{"chunk_id": "is456-20-0", "query": "Quartzite concrete expansion coefficient?", "lang": "en"}
+{"chunk_id": "is456-20-0", "query": "If I'm building with sandstone, what's the typical thermal expansion value I should use for concrete design calculations?", "lang": "en"}
+{"chunk_id": "is456-19-0", "query": "What's the suggested shrinkage strain value to use when concrete test results aren't available for design calculations?", "lang": "en"}
+{"chunk_id": "is456-19-0", "query": "Creep coefficient for 7-day concrete under stress – what's the typical value?", "lang": "en"}
+{"chunk_id": "is456-19-0", "query": "If I'm designing a long-span bridge and need to account for creep, how should I approach determining the actual creep strain considering stress levels and loading age?", "lang": "en"}
+{"chunk_id": "is456-21-0", "query": "What slump range is recommended for placing concrete within shallow sections, such as those used for blinding or paving with pavers?", "lang": "en"}
+{"chunk_id": "is456-21-0", "query": "needle vibrator diameter calculation", "lang": "en"}
+{"chunk_id": "is456-21-0", "query": "For tremie concrete applications, should internal vibrators be utilized, and if so, what factors influence their size selection?", "lang": "en"}
+{"chunk_id": "is456-22-0", "query": "For high-performance concrete like pavement slabs, what's the best method for assessing concrete workability – slump or compacting factor, and what range of compacting factors is typically recommended?", "lang": "en"}
+{"chunk_id": "is456-22-0", "query": "compacting factor", "lang": "en"}
+{"chunk_id": "is456-22-0", "query": "If I'm making concrete for a road surface and need a very workable mix, should I prioritize a high or low water-cement ratio and what's a typical compacting factor I'd aim for?", "lang": "en"}
+{"chunk_id": "is456-23-0", "query": "What factors, beyond just the concrete mix design, are crucial for ensuring concrete's long-term performance and resistance to degradation from environmental elements like water and chlorides?", "lang": "en"}
+{"chunk_id": "is456-23-0", "query": "water/cement ratio", "lang": "en"}
+{"chunk_id": "is456-23-0", "query": "How can construction practices – specifically compaction and curing – be optimized to create a concrete member that effectively resists water penetration and protects embedded steel reinforcement?", "lang": "en"}
+{"chunk_id": "is456-24-0", "query": "How does concrete design, specifically regarding shape and member profiles, contribute to its long-term durability against water damage?", "lang": "en"}
+{"chunk_id": "is456-24-0", "query": "Hydrostatic pressure & thin sections – what concrete vulnerabilities exist in these conditions?", "lang": "en"}
+{"chunk_id": "is456-24-0", "query": "What environmental factors, as defined by Table 3, influence the necessary durability measures for a concrete structure's lifespan, particularly concerning water ingress and chemical attack?", "lang": "en"}
+{"chunk_id": "is456-25-0", "query": "What are the specific environmental conditions that necessitate different durability requirements for concrete structures, particularly concerning exposure to seawater and coastal areas?", "lang": "en"}
+{"chunk_id": "is456-25-0", "query": "Salt air exposure", "lang": "en"}
+{"chunk_id": "is456-25-0", "query": "How does exposure to aggressive sub-soils or groundwater affect the required concrete strength and protective measures for a bridge pier foundation in a coastal zone?", "lang": "en"}
+{"chunk_id": "is456-26-0", "query": "What air entrainment percentage is needed for concrete grades below M50 exposed to freezing and thawing?", "lang": "en"}
+{"chunk_id": "is456-26-0", "query": "How does sulphate attack necessitate changes to cement type, water/cement ratio, and concrete cover?", "lang": "en"}
+{"chunk_id": "is456-26-0", "query": "What surface protection methods are recommended when dealing with high sulphate concentrations in Class 5 conditions and what is the fundamental principle behind steel corrosion protection via concrete cover?", "lang": "en"}
+{"chunk_id": "is456-27-0", "query": "What's the recommended lowest water-cement ratio for achieving optimal concrete durability, and how does this relate to the aggregate size?", "lang": "en"}
+{"chunk_id": "is456-27-0", "query": "Aggregate size impact – how do cement content limits change when using larger aggregate?", "lang": "en"}
+{"chunk_id": "is456-27-0", "query": "When designing thin sections or dealing with potential alkali-silica reactions, what considerations are needed regarding cement content to mitigate cracking?", "lang": "en"}
+{"chunk_id": "is456-28-0", "query": "What concrete mixes, considering aggregate size and sulphate content, are suitable for environments prone to sulphate attack, specifying the required cement type and maximum aggregate dimensions?", "lang": "en"}
+{"chunk_id": "is456-28-0", "query": "Sulphate resistance: 20mm aggregate, Portland cement ratios", "lang": "en"}
+{"chunk_id": "is456-28-0", "query": "For a bridge pier exposed to high sulphate concentrations (up to 5%), what minimum cement content and water-cement ratio should be used to ensure durability, particularly when using supersulphated cement?", "lang": "en"}
+{"chunk_id": "is456-28-1", "query": "When dealing with concrete subjected to significant hydrostatic pressure and thin section dimensions, what adjustments should be made to the water-cement ratio to enhance durability?", "lang": "en"}
+{"chunk_id": "is456-28-1", "query": "Slag cement – is it a better choice for sulphate resistance compared to standard Portland cement?", "lang": "en"}
+{"chunk_id": "is456-28-1", "query": "If chloride contamination is present alongside sulphate exposure in soil or groundwater, what cement type or blend offers improved protection, and what factors should be considered when choosing that blend?", "lang": "en"}
+{"chunk_id": "is456-29-0", "query": "What factors contribute to concrete corrosion due to chloride exposure, and how is the risk assessed?", "lang": "en"}
+{"chunk_id": "is456-29-0", "query": "Chloride levels in concrete mix – what are the acceptable limits?", "lang": "en"}
+{"chunk_id": "is456-29-0", "query": "How do I determine the chloride content of fresh concrete to ensure durability, considering both initial addition and potential environmental ingress?", "lang": "en"}
+{"chunk_id": "is456-30-0", "query": "What's the maximum allowable sulfate concentration in a concrete mix, measured as a percentage of the cement content, to avoid expansion and damage?", "lang": "en"}
+{"chunk_id": "is456-30-0", "query": "sulphate limits concrete", "lang": "en"}
+{"chunk_id": "is456-30-0", "query": "If a concrete mix contains soluble sulfates from cement or aggregate, how much sulfate (as SO) is permissible to maintain durability?", "lang": "en"}
+{"chunk_id": "is456-31-0", "query": "What factors contribute to concrete cracking due to a reaction between cement alkalis and specific aggregate types, particularly those rich in silica?", "lang": "en"}
+{"chunk_id": "is456-31-0", "query": "Alkali-reactive aggregates", "lang": "en"}
+{"chunk_id": "is456-31-0", "query": "If I'm using a new cement and aggregate combination for a large foundation, what conditions must be carefully monitored to prevent cracking caused by alkali-aggregate reaction?", "lang": "en"}
+{"chunk_id": "is456-32-0", "query": "What's the recommended cement content and maximum water-cement ratio for reinforced concrete exposed to severe conditions, using normal weight aggregates?", "lang": "en"}
+{"chunk_id": "is456-32-0", "query": "Fly ash or slag – what’s the maximum allowable addition percentage to concrete mixes when targeting durability for different exposure categories?", "lang": "en"}
+{"chunk_id": "is456-32-0", "query": "For a plain concrete structure in a mild exposure environment, what cement grade and water-cement ratio should be used to ensure adequate durability, considering aggregate size?", "lang": "en"}
+{"chunk_id": "is456-33-0", "query": "How much less cement is needed when using 10mm aggregate compared to 20mm aggregate?", "lang": "en"}
+{"chunk_id": "is456-33-0", "query": "Cement adjustment for aggregate sizes", "lang": "en"}
+{"chunk_id": "is456-33-0", "query": "What’s the reduction in minimum cement content required when using 40mm maximum aggregate size for concrete?", "lang": "en"}
+{"chunk_id": "is456-34-0", "query": "What’s the maximum chloride level allowed in reinforced concrete, particularly for pre-stressed concrete exposed to steam curing?", "lang": "en"}
+{"chunk_id": "is456-34-0", "query": "Fly ash or slag replacement – what’s the acceptable alkali content limit and minimum percentage needed for these supplementary cementitious materials?", "lang": "en"}
+{"chunk_id": "is456-34-0", "query": "If I'm building a concrete structure in aggressive soil, and considering the use of low-alkali cement with fly ash, how does reducing cement content impact chloride resistance?", "lang": "en"}
+{"chunk_id": "is456-35-0", "query": "How does increasing the strength and impermeability of concrete affect its resistance to damage from aggressive water, particularly considering factors like salt concentration?", "lang": "en"}
+{"chunk_id": "is456-35-0", "query": "Concrete protection against high alkali groundwater", "lang": "en"}
+{"chunk_id": "is456-35-0", "query": "If a structure is only partially submerged in salty water, what preventative measures, like materials or drainage, can be implemented to mitigate the risk of deterioration?", "lang": "en"}
+{"chunk_id": "is456-36-0", "query": "What specific compaction methods and finishing techniques are recommended for achieving durable concrete, especially around joints and reinforcement?", "lang": "en"}
+{"chunk_id": "is456-36-0", "query": "Sea-water concrete grade requirements – M20 vs M30?", "lang": "en"}
+{"chunk_id": "is456-36-0", "query": "How does incorporating materials like slag or pozzolana cement impact the design of concrete exposed to marine environments?", "lang": "en"}
+{"chunk_id": "is456-37-0", "query": "What surface preparation is recommended for precast concrete elements intended for marine environments, specifically concerning smoothness and defect prevention?", "lang": "en"}
+{"chunk_id": "is456-37-0", "query": "Concrete joints near water – how far below the water level should we avoid them?", "lang": "en"}
+{"chunk_id": "is456-37-0", "query": "How should we protect reinforcing steel from corrosion when working with reinforced concrete in coastal areas, considering options like cement wash or alternative coatings?", "lang": "en"}
+{"chunk_id": "is456-38-0", "query": "What are the key considerations when deciding between a designed concrete mix and a nominal mix, particularly concerning strength and surface characteristics?", "lang": "en"}
+{"chunk_id": "is456-38-0", "query": "Concrete mix design", "lang": "en"}
+{"chunk_id": "is456-38-0", "query": "Can I use a nominal mix for M20 concrete if a design mix isn't feasible, and what are the implications regarding cement usage?", "lang": "en"}
+{"chunk_id": "is456-39-0", "query": "What key details must be included when defining a concrete grade, specifically regarding its mix type and cement?", "lang": "en"}
+{"chunk_id": "is456-39-0", "query": "Design mix concrete – what factors must be considered for its proportioning?", "lang": "en"}
+{"chunk_id": "is456-39-0", "query": "When specifying concrete for a project, how does the employer’s approval process relate to the constructor’s mix design, particularly concerning maximum water-cement ratio and aggregate types?", "lang": "en"}
+{"chunk_id": "is456-40-0", "query": "How is the desired concrete strength determined, and what factor is applied to the characteristic strength to establish a target mean strength?", "lang": "en"}
+{"chunk_id": "is456-40-0", "query": "Concrete mix designs older than a year can be reused under specific conditions – what are those conditions?", "lang": "en"}
+{"chunk_id": "is456-40-0", "query": "What is the process for determining the appropriate standard deviation value needed for calculating the target mean strength of a concrete mix, particularly concerning different concrete grades?", "lang": "en"}
+{"chunk_id": "is456-41-0", "query": "When calculating the variability in concrete strength, how many test results are needed to establish a reliable standard deviation, particularly when establishing a new mix design?", "lang": "en"}
+{"chunk_id": "is456-41-0", "query": "Concrete standard deviation - what value should I use if I don’t have enough test data?", "lang": "en"}
+{"chunk_id": "is456-41-0", "query": "If we're changing the concrete mix – say, a different cement type or aggregate – how often should we recalculate the standard deviation to ensure accurate design and quality control on site?", "lang": "en"}
+{"chunk_id": "is456-42-0", "query": "If the standard deviation value in the concrete mix design table differs from the one listed, what specific actions are required to ensure long-term structural integrity and align with the original design intent?", "lang": "en"}
+{"chunk_id": "is456-42-0", "query": "Concrete deviation", "lang": "en"}
+{"chunk_id": "is456-42-0", "query": "How does quality assurance during concrete production – focusing on material selection, workmanship, and ongoing maintenance – contribute to minimizing life-cycle costs for a structure, particularly considering grades like M10 to M45?", "lang": "en"}
+{"chunk_id": "is456-43-0", "query": "What specific controls are needed to ensure consistent concrete quality during production, covering aspects like material storage, weighing, and water addition?", "lang": "en"}
+{"chunk_id": "is456-43-0", "query": "Cement storage, aggregate grading, and moisture content – what’s the standard monitoring frequency for concrete manufacturing?", "lang": "en"}
+{"chunk_id": "is456-43-0", "query": "If concrete slump or strength tests show a deviation from the prescribed values, how should the site team adjust the process to maintain satisfactory performance and achieve the intended structural functionality?", "lang": "en"}
+{"chunk_id": "is456-44-0", "query": "When using M20 or lower grade concrete, what specific considerations are needed regarding the mix proportions and quality control process?", "lang": "en"}
+{"chunk_id": "is456-44-0", "query": "Water-cement ratio adjustments", "lang": "en"}
+{"chunk_id": "is456-44-0", "query": "If encountering placement or compaction difficulties with nominal mix concrete, how should the cement content be adjusted to maintain desired performance?", "lang": "en"}
+{"chunk_id": "is456-46-0", "query": "What specific records must be maintained to demonstrate concrete quality control during a construction project, considering the roles of suppliers and subcontractors?", "lang": "en"}
+{"chunk_id": "is456-46-0", "query": "Concrete documentation needs", "lang": "en"}
+{"chunk_id": "is456-46-0", "query": "How should a construction team document concrete placement and inspection procedures to ensure compliance with quality standards, particularly regarding continuous production over an extended period?", "lang": "en"}
+{"chunk_id": "is456-45-0", "query": "What's the recommended water-cement ratio range for nominal concrete mixes, considering both the maximum and minimum proportions based on aggregate mass?", "lang": "en"}
+{"chunk_id": "is456-45-0", "query": "Fine aggregate to coarse aggregate ratios for M175 and M20 concrete grades - what’s the typical range?", "lang": "en"}
+{"chunk_id": "is456-45-0", "query": "If I'm using 10mm, 20mm, and 40mm sized graded coarse aggregate, how should I adjust the proportion of fine aggregate to achieve a concrete mix conforming to IS 456:2000?", "lang": "en"}
+{"chunk_id": "is456-48-0", "query": "When aggregate grading isn't consistently available, how should a contractor manage aggregate supply to ensure quality?", "lang": "en"}
+{"chunk_id": "is456-48-0", "query": "Aggregate measurement accuracy – what are the acceptable tolerances for cement and aggregate quantities?", "lang": "en"}
+{"chunk_id": "is456-48-0", "query": "If aiming for the densest possible concrete mix, what’s the recommended approach to determining aggregate proportions and types?", "lang": "en"}
+{"chunk_id": "is456-47-0", "query": "What’s the best practice for managing concrete mixes on a construction site to minimize errors?", "lang": "en"}
+{"chunk_id": "is456-47-0", "query": "Batching concrete – should aggregate and cement be measured by weight or volume?", "lang": "en"}
+{"chunk_id": "is456-47-0", "query": "For a large project, is it better to source concrete from a ready-mixed plant or establish an on-site batching facility?", "lang": "en"}
+{"chunk_id": "is456-51-0", "query": "When should forms be removed from concrete after it's been discharged from the mixer, considering its strength?", "lang": "en"}
+{"chunk_id": "is456-51-0", "query": "Concrete stripping time?", "lang": "en"}
+{"chunk_id": "is456-51-0", "query": "How much strength does the concrete need to reach before releasing the formwork after mixing?", "lang": "en"}
+{"chunk_id": "is456-50-0", "query": "What’s the typical water content range associated with wet sand and gravel aggregates, expressed as a percentage of their mass, relevant for concrete mix design?", "lang": "en"}
+{"chunk_id": "is456-50-0", "query": "aggregate water ratio", "lang": "en"}
+{"chunk_id": "is456-50-0", "query": "If I'm using coarser gravel, how much water can I add to my concrete mix without compromising its strength, considering the impact on the final mass?", "lang": "en"}
+{"chunk_id": "is456-49-0", "query": "When can bulk batching be used for concrete production, and what specific considerations are needed to ensure accurate concrete grading?", "lang": "en"}
+{"chunk_id": "is456-49-0", "query": "Aggregate moisture content – how often should it be checked, and what standard provides guidance for aggregate moisture determination?", "lang": "en"}
+{"chunk_id": "is456-49-0", "query": "If aggregate moisture variations are detected, how should the concrete mix design be adjusted to maintain the intended water-cement ratio during on-site mixing?", "lang": "en"}
+{"chunk_id": "is456-52-0", "query": "What's the minimum mixing time needed for concrete to ensure it’s properly prepared for removal or formwork?", "lang": "en"}
+{"chunk_id": "is456-52-0", "query": "concrete mixing time", "lang": "en"}
+{"chunk_id": "is456-52-0", "query": "How frequently should I check the workability of fresh concrete to ensure it meets specifications, particularly when using hydrophobic cement or admixtures?", "lang": "en"}
+{"chunk_id": "is456-53-0", "query": "When should formwork be removed from concrete, considering its achieved strength?", "lang": "en"}
+{"chunk_id": "is456-53-0", "query": "Concrete strength criteria for formwork release", "lang": "en"}
+{"chunk_id": "is456-53-0", "query": "How do we determine when it's safe to take down formwork on a concrete structure, focusing on the concrete's strength?", "lang": "en"}
+{"chunk_id": "is456-54-0", "query": "Under what temperature conditions can superplasticisers be used effectively when working with ordinary Portland cement, and what limits are placed on their dosage?", "lang": "en"}
+{"chunk_id": "is456-54-0", "query": "Retarder usage – what’s the maximum permissible dosage for retarders with OPC, and when is it required?", "lang": "en"}
+{"chunk_id": "is456-54-0", "query": "If ambient temperatures are below 15°C and ordinary Portland cement is being utilized, what curing requirements are stipulated to ensure concrete quality, and how should this be determined in practice?", "lang": "en"}
+{"chunk_id": "is456-55-0", "query": "What are the recommended stripping times for formwork after concrete placement, considering typical curing periods of 3 or 7 days, and how do these times potentially change based on cement type or ambient temperature?", "lang": "en"}
+{"chunk_id": "is456-55-0", "query": "Column soffit formwork tolerances – what's the maximum allowable deviation from the specified dimensions for column cross-sections?", "lang": "en"}
+{"chunk_id": "is456-55-0", "query": "If I'm building a slab and need to prevent slurry loss from the wet concrete, what formwork design considerations are particularly important for soffit formwork, referencing related standards?", "lang": "en"}
+{"chunk_id": "is456-56-0", "query": "How much load does the formwork need to withstand when supporting concrete during its curing phase, considering both dead load and potential live load?", "lang": "en"}
+{"chunk_id": "is456-56-0", "query": "Formwork clearance for re-entrant angles", "lang": "en"}
+{"chunk_id": "is456-56-0", "query": "What’s the minimum prop spacing and size required under a slab or beam to safely support concrete while it's being poured and hardened, and why is quick formwork removal important in certain cases?", "lang": "en"}
+{"chunk_id": "is456-57-0", "query": "What are the specific requirements for preparing steel reinforcement before it's placed in concrete, particularly regarding form release agents and their compliance with IS 2502?", "lang": "en"}
+{"chunk_id": "is456-57-0", "query": "Formwork removal – how long must props be refixed after removing formwork, depending on the span?", "lang": "en"}
+{"chunk_id": "is456-57-0", "query": "When placing reinforcement, what precautions should be taken to avoid damaging the steel and ensure proper positioning, considering factors like dropping from height and tack welding?", "lang": "en"}
+{"chunk_id": "is456-58-0", "query": "What are the allowable placement tolerances for reinforcement steel, specifically regarding effective depth and how much deviation is permitted from the required concrete cover?", "lang": "en"}
+{"chunk_id": "is456-58-0", "query": "Concrete cover spacers – what materials can they be made from, and what’s the maximum spacing allowed between these spacers and the formwork?", "lang": "en"}
+{"chunk_id": "is456-58-0", "query": "When welding reinforcement, what additional testing requirements must be fulfilled to ensure the structural integrity of the connection, referencing relevant Indian Standards?", "lang": "en"}
+{"chunk_id": "is456-60-0", "query": "What precautions are needed when transporting concrete to the placement area to avoid ingredients separating or water loss, particularly in extreme temperatures?", "lang": "en"}
+{"chunk_id": "is456-60-0", "query": "Concrete placement – maximum drop height?", "lang": "en"}
+{"chunk_id": "is456-60-0", "query": "How should concrete be compacted around reinforcement and fixtures to ensure proper strength and prevent disturbance after initial setting?", "lang": "en"}
+{"chunk_id": "is456-59-0", "query": "What are the minimum bend radii allowed when returning deformed steel reinforcement bars (up to 16mm) and mild steel bars (up to 16mm) back to their original position at construction joints?", "lang": "en"}
+{"chunk_id": "is456-59-0", "query": "bent bar diameter", "lang": "en"}
+{"chunk_id": "is456-59-0", "query": "How can I prevent bimetallic corrosion when placing reinforcement with different metal types within the concrete?", "lang": "en"}
+{"chunk_id": "is456-61-0", "query": "What equipment is permitted for compacting concrete, referencing relevant Indian Standards?", "lang": "en"}
+{"chunk_id": "is456-61-0", "query": "How do I avoid damaging concrete during vibration, specifically regarding excessively wet mixes?", "lang": "en"}
+{"chunk_id": "is456-61-0", "query": "When applying external vibration to concrete forms, what design considerations are crucial for optimal compaction and preventing surface defects?", "lang": "en"}
+{"chunk_id": "is456-65-0", "query": "Why is continuous oversight crucial throughout the concrete construction process, specifically regarding the preparation and mixing of the material?", "lang": "en"}
+{"chunk_id": "is456-65-0", "query": "Supervision regarding reinforcement placement?", "lang": "en"}
+{"chunk_id": "is456-65-0", "query": "What's the key reason for needing close monitoring before formwork removal or concrete pouring begins?", "lang": "en"}
+{"chunk_id": "is456-62-0", "query": "What are the best practices for minimizing weaknesses associated with construction joints in concrete, and how should their placement be documented?", "lang": "en"}
+{"chunk_id": "is456-62-0", "query": "Laitance removal & aggregate exposure – what techniques are suitable for preparing surfaces at construction joints?", "lang": "en"}
+{"chunk_id": "is456-62-0", "query": "When placing new concrete against previously hardened concrete at construction joints, what specific actions are needed to ensure adequate bonding and shear resistance, particularly concerning the removal of curing compounds?", "lang": "en"}
+{"chunk_id": "is456-64-0", "query": "How long must concrete be kept continuously wet after placement to achieve full strength, considering different cement types and weather conditions?", "lang": "en"}
+{"chunk_id": "is456-64-0", "query": "Moist curing vs. membrane curing – what’s the acceptable alternative for maintaining concrete surface dampness?", "lang": "en"}
+{"chunk_id": "is456-64-0", "query": "What are the curing requirements for concrete mixes incorporating pozzolana cement, slag cement, or mineral admixtures, particularly in hot and dry climates?", "lang": "en"}
+{"chunk_id": "is456-63-0", "query": "Why is maintaining moisture crucial for concrete strength development, especially when using cement with a high rate of hydration or when incorporating materials like granulated blast furnace slag or pulverised fuel ash?", "lang": "en"}
+{"chunk_id": "is456-63-0", "query": "Curing temperature control – what’s the key consideration for supersulphated cement concrete?", "lang": "en"}
+{"chunk_id": "is456-63-0", "query": "If a concrete mix has a low water-cement ratio, how long must the surface remain moist to ensure adequate curing and prevent premature strength loss?", "lang": "en"}
+{"chunk_id": "is456-66-0", "query": "What are the specific guidelines for concrete placement during extreme heat or cold, and which standards should be referenced?", "lang": "en"}
+{"chunk_id": "is456-66-0", "query": "Underwater concrete mix design – what slump and cement content requirements apply to mixes poured beneath water?", "lang": "en"}
+{"chunk_id": "is456-66-0", "query": "How do coffer dams need to perform during underwater concrete placement to prevent water flow and mortar loss?", "lang": "en"}
+{"chunk_id": "is456-67-0", "query": "What are the critical considerations for pouring concrete underwater, specifically regarding preventing segregation and maintaining a level surface?", "lang": "en"}
+{"chunk_id": "is456-67-0", "query": "Tremie pipe diameter – what’s the minimum size required for effective underwater concrete placement?", "lang": "en"}
+{"chunk_id": "is456-67-0", "query": "When using a tremie, how should the upper end of the pipe be prepared to ensure concrete flow and minimize water contamination?", "lang": "en"}
+{"chunk_id": "is456-67-2", "query": "What are the specific requirements for filling and lowering concrete buckets to minimize backwash and ensure proper deposition?", "lang": "en"}
+{"chunk_id": "is456-67-2", "query": "Steel cage dimensions and pipe diameters for grouting operations.", "lang": "en"}
+{"chunk_id": "is456-67-2", "query": "How should jute bags be prepared and positioned during concrete placement to create a stable, interlocked mass, and what is the minimum aggregate size permitted?", "lang": "en"}
+{"chunk_id": "is456-67-1", "query": "How should concrete be delivered through a tremie pipe to prevent water from entering and ensure a continuous flow, specifically detailing the required plug material and the importance of maintaining the lower end of the pipe below the concrete's surface?", "lang": "en"}
+{"chunk_id": "is456-67-1", "query": "Tremie pipe operation - 'wadding', 'check valve', 'bucket flap'", "lang": "en"}
+{"chunk_id": "is456-67-1", "query": "When pumping concrete with a drop-bottom bucket, what precautions are needed to avoid backwash and ensure the concrete is properly discharged, considering the bucket's placement and door operation?", "lang": "en"}
+{"chunk_id": "is456-68-0", "query": "What techniques are recommended for preventing excessive laitance formation during concrete placement?", "lang": "en"}
+{"chunk_id": "is456-68-0", "query": "Accelerated concrete placement methods", "lang": "en"}
+{"chunk_id": "is456-68-0", "query": "How should concrete samples be handled and tested to ensure accurate results while being poured?", "lang": "en"}
+{"chunk_id": "is456-67-3", "query": "How is concrete placed around steel pipes, specifying the typical dimensions of the pipe and the concrete layer height?", "lang": "en"}
+{"chunk_id": "is456-67-3", "query": "grout volume calculation", "lang": "en"}
+{"chunk_id": "is456-67-3", "query": "What’s the process for grouting steel cages within concrete, including the staged lifting and re-positioning of the pipe?", "lang": "en"}
+{"chunk_id": "is456-69-0", "query": "What’s the standard process for determining the compressive strength of concrete batches, specifically regarding the number of specimens required and the timeframe for testing?", "lang": "en"}
+{"chunk_id": "is456-69-0", "query": "Concrete sampling – how do I ensure a representative sample is taken from a concrete mix?", "lang": "en"}
+{"chunk_id": "is456-69-0", "query": "Can I test concrete for modulus of rupture or compressive strength at 7 days, and if so, what’s the ultimate deciding factor for acceptance based on these preliminary results?", "lang": "en"}
+{"chunk_id": "is456-71-0", "query": "How many concrete cylinders are needed to verify compliance with strength requirements, and what criteria must be met regarding the average and individual test results?", "lang": "en"}
+{"chunk_id": "is456-71-0", "query": "concrete strength criteria", "lang": "en"}
+{"chunk_id": "is456-71-0", "query": "If a concrete sample shows a flexural strength significantly lower than the specified characteristic strength, will it still be considered acceptable based on the test results?", "lang": "en"}
+{"chunk_id": "is456-70-0", "query": "How many concrete samples should be taken from a project, depending on the volume of concrete being supplied?", "lang": "en"}
+{"chunk_id": "is456-70-0", "query": "Concrete sampling frequency – what's the rule for volumes between 15m³ and 30m³?", "lang": "en"}
+{"chunk_id": "is456-70-0", "query": "If a concrete batch test shows a 20% variation from the average, is the result acceptable according to IS 456:2000?", "lang": "en"}
+{"chunk_id": "is456-72-0", "query": "How many concrete batches are considered when evaluating the strength of a group of four tests?", "lang": "en"}
+{"chunk_id": "is456-72-0", "query": "Concrete volume affected by a single test result – what's the maximum limit?", "lang": "en"}
+{"chunk_id": "is456-72-0", "query": "If concrete doesn't meet strength requirements due to issues like displacement or porosity, what’s the process for ensuring structural safety on-site?", "lang": "en"}
+{"chunk_id": "is456-73-0", "query": "What specific testing procedures are mandated for reinforcing steel and concrete materials to guarantee compliance with design specifications, and how should quality assurance schemes be incorporated?", "lang": "en"}
+{"chunk_id": "is456-73-0", "query": "Concrete inspection – formwork removal, defect identification, and repair requirements.", "lang": "en"}
+{"chunk_id": "is456-73-0", "query": "When might core strength tests or load tests be necessary to confirm concrete grade, and what factors trigger their use?", "lang": "en"}
+{"chunk_id": "is456-74-0", "query": "How many concrete cores should be taken for a representative strength assessment, and who determines the appropriate number?", "lang": "en"}
+{"chunk_id": "is456-74-0", "query": "Core strength criteria: what’s the minimum acceptable average cube strength for concrete, and what's the lowest allowable core strength?", "lang": "en"}
+{"chunk_id": "is456-74-0", "query": "If core testing isn't feasible, what alternative testing method is recommended for flexural members – specifically, load testing?", "lang": "en"}
+{"chunk_id": "is456-76-0", "query": "Under what conditions is a deflection test required after applying a load to a reinforced concrete structure, and what criteria must be met for the test to be considered valid?", "lang": "en"}
+{"chunk_id": "is456-76-0", "query": "Recovery deflection after load removal – what percentage recovery is needed for a deflection test to pass?", "lang": "en"}
+{"chunk_id": "is456-76-0", "query": "If a concrete beam experiences a maximum deflection of 400mm over a span of 1 meter, can the recovery test be bypassed, and under what circumstances?", "lang": "en"}
+{"chunk_id": "is456-75-0", "query": "What is the acceptable variation in compressive strength for Grade 4 concrete, considering the standard deviation and its relation to the specified mean?", "lang": "en"}
+{"chunk_id": "is456-75-0", "query": "Concrete strength verification: How do I determine the maximum allowable strength for M15 and M20 concrete based on test results and standard deviation?", "lang": "en"}
+{"chunk_id": "is456-75-0", "query": "If the standard deviation for a concrete mix isn't initially established, what’s the recommended approach to determine the acceptable strength range for concrete before 28 days, particularly during testing?", "lang": "en"}
+{"chunk_id": "is456-77-0", "query": "What non-destructive testing techniques, referencing specific Indian Standards like IS 1331, are commonly employed to assess concrete strength and quality within a structural project?", "lang": "en"}
+{"chunk_id": "is456-77-0", "query": "Ultrasonic pulse velocity and rebound hammer – which methods offer alternatives to core sampling for concrete strength estimation?", "lang": "en"}
+{"chunk_id": "is456-77-0", "query": "When utilizing non-destructive testing methods to evaluate concrete, how should acceptance criteria be established and agreed upon beforehand to ensure reliable results?", "lang": "en"}
+{"chunk_id": "is456-78-0", "query": "What are the primary objectives considered when designing a structure to ensure its long-term performance and safety, specifically concerning loads, deformations, durability, and resistance to misuse or fire?", "lang": "en"}
+{"chunk_id": "is456-78-0", "query": "Limit State Method vs. Working Stress Method", "lang": "en"}
+{"chunk_id": "is456-78-0", "query": "If a design relies on findings from a scaled model or full-size structure tested experimentally, what approvals are needed for it to be considered acceptable for construction?", "lang": "en"}
+{"chunk_id": "is456-80-0", "query": "How does the design account for the expected lifespan of a concrete structure, specifically in terms of material quality and construction practices?", "lang": "en"}
+{"chunk_id": "is456-80-0", "query": "Concrete quality & workmanship verification", "lang": "en"}
+{"chunk_id": "is456-80-0", "query": "If inspections show concrete and steel meet acceptable standards, does that automatically guarantee long-term structural performance and require ongoing maintenance plans?", "lang": "en"}
+{"chunk_id": "is456-79-0", "query": "If a structural design relies on data from a full-scale experimental study, what verification testing is required to confirm serviceability limits like deflection and cracking?", "lang": "en"}
+{"chunk_id": "is456-79-0", "query": "Deflection recovery test: How long should a load be applied to a structure during testing, and what percentage recovery is needed to pass?", "lang": "en"}
+{"chunk_id": "is456-79-0", "query": "For a concrete beam tested under sustained load, what is the load factor (1.33) and the recovery requirement (75%) needed to validate the design against collapse, considering a 24-hour load duration?", "lang": "en"}
+{"chunk_id": "is456-81-0", "query": "What unit weights should be used when estimating dead loads for concrete structures utilizing sand and gravel or crushed stone aggregate, and are there alternative methods for determining these values?", "lang": "en"}
+{"chunk_id": "is456-81-0", "query": "Concrete unit weights", "lang": "en"}
+{"chunk_id": "is456-81-0", "query": "If we're designing a building in Mumbai and need to account for wind loads, which Indian Standard provides the guidelines for determining those forces?", "lang": "en"}
+{"chunk_id": "is456-82-0", "query": "For low-rise buildings under 45 meters in any dimension, can we generally exclude calculations related to temperature changes, shrinkage, and creep when determining structural safety?", "lang": "en"}
+{"chunk_id": "is456-82-0", "query": "Foundation movement, soil pressure, and vibration – what forces require specific consideration beyond just the dead load?", "lang": "en"}
+{"chunk_id": "is456-82-0", "query": "When designing a reinforced concrete column exposed to multiple loads, how should the designer specifically address potential stress reversal if the dead load is partially counteracting these other forces?", "lang": "en"}
+{"chunk_id": "is456-83-0", "query": "What safety factor should be applied when calculating the resisting moment against overturning for a structure considering both dead and imposed loads, particularly when the dead load itself provides significant stability?", "lang": "en"}
+{"chunk_id": "is456-83-0", "query": "Overturning Stability – Dead Load & Imposed Loads", "lang": "en"}
+{"chunk_id": "is456-83-0", "query": "How much should I account for variations in dead loads during construction to ensure a structure remains stable under different loading scenarios, including wind and seismic forces?", "lang": "en"}
+{"chunk_id": "is456-84-0", "query": "How does the design ensure horizontal forces from wind and seismic activity are safely transferred to the building's foundations?", "lang": "en"}
+{"chunk_id": "is456-84-0", "query": "Lateral sway limits for tall buildings under wind load", "lang": "en"}
+{"chunk_id": "is456-84-0", "query": "What is the maximum acceptable sway height (H/S ratio) for a building's top floor during a temporary wind load?", "lang": "en"}
+{"chunk_id": "is456-85-0", "query": "How does concrete cover, member size, and aggregate type affect the fire resistance rating of a structural element as defined by IS 1641?", "lang": "en"}
+{"chunk_id": "is456-85-0", "query": "Concrete cover – what's the minimum required for normal-weight aggregate members when aiming for specific fire resistance?", "lang": "en"}
+{"chunk_id": "is456-85-0", "query": "If concrete cover exceeds 40mm for beams or 35mm for slabs, what supplementary fire protection measures are recommended to prevent spalling?", "lang": "en"}
+{"chunk_id": "is456-87-0", "query": "How do I determine the effective span length for a simply supported beam or slab when calculating internal forces, considering the impact of the slab's depth?", "lang": "en"}
+{"chunk_id": "is456-87-0", "query": "Effective span calculation – clear span + support?", "lang": "en"}
+{"chunk_id": "is456-87-0", "query": "For a continuous beam, what factors influence the determination of the effective span length for internal load analysis?", "lang": "en"}
+{"chunk_id": "is456-86-0", "query": "What are the minimum required dimensions for reinforced concrete beams and columns, considering varying degrees of exposure and steel reinforcement percentages, to achieve a minimum fire resistance?", "lang": "en"}
+{"chunk_id": "is456-86-0", "query": "Beam width and column diameter requirements for fire resistance – 0.4% to 1% exposure.", "lang": "en"}
+{"chunk_id": "is456-86-0", "query": "If I'm designing a 200mm wide beam with 50% steel and one face exposed, what’s the minimum wall thickness I need to consider for fire protection?", "lang": "en"}
+{"chunk_id": "is456-88-0", "query": "When calculating the load-bearing capacity of a continuous beam or slab subjected to uniform loading, how does the width of the support columns impact the effective span used for strength calculations?", "lang": "en"}
+{"chunk_id": "is456-88-0", "query": "Effective span for continuous beams", "lang": "en"}
+{"chunk_id": "is456-88-0", "query": "If a continuous beam has a support narrower than 600mm, but wider than 1/12th of the total span, what is the correct method for determining the effective span to accurately predict bending moments and shear forces?", "lang": "en"}
+{"chunk_id": "is456-89-0", "query": "When designing a building with an irregular shape or uneven load distribution, how does the calculation of support moments and shear forces change to account for side sway?", "lang": "en"}
+{"chunk_id": "is456-89-0", "query": "Continuous frame analysis - centre to centre distance", "lang": "en"}
+{"chunk_id": "is456-89-0", "query": "If we're analyzing a tall, asymmetrical frame under lateral loads, what level of analysis – simplified or rigorous – is recommended, and what key measurement should be utilized?", "lang": "en"}
+{"chunk_id": "is456-91-0", "query": "When calculating beam and slab deflection over supports, especially when the member is connected to a masonry wall with limited restraint, what design moment capacity should be considered?", "lang": "en"}
+{"chunk_id": "is456-91-0", "query": "Masonry wall restraint?", "lang": "en"}
+{"chunk_id": "is456-91-0", "query": "If a slab is supported at one end with a masonry wall as a partial restraint, how does the span length influence the required moment resistance?", "lang": "en"}
+{"chunk_id": "is456-90-0", "query": "When designing beam flexural strength, can I use the gross cross-sectional area of the beam, ignoring the reinforcement, if the spans are relatively uniform and within 15% of each other?", "lang": "en"}
+{"chunk_id": "is456-90-0", "query": "Modular ratio for beam moment calculations", "lang": "en"}
+{"chunk_id": "is456-90-0", "query": "If I'm designing a beam with unequal spans and uneven load distribution, how do I determine the concrete area and reinforcement for calculating bending moments – should I use the transformed section or a gross section and apply the modular ratio?", "lang": "en"}
+{"chunk_id": "is456-92-0", "query": "Under what conditions can simplified analysis methods be employed for structural frames, specifically concerning the calculation of moments and shear?", "lang": "en"}
+{"chunk_id": "is456-92-0", "query": "Span load arrangement – dead load vs. imposed load", "lang": "en"}
+{"chunk_id": "is456-92-0", "query": "If analyzing a continuous beam supported over multiple points, can I use the assumptions related to support increases (0.05) and span load combinations to reduce analysis complexity?", "lang": "en"}
+{"chunk_id": "is456-93-0", "query": "What are the bending moment and shear coefficients to be applied for calculating design loads under dead load and imposed load scenarios, considering span length and support conditions?", "lang": "en"}
+{"chunk_id": "is456-93-0", "query": "Span load coefficients", "lang": "en"}
+{"chunk_id": "is456-93-0", "query": "If designing a reinforced concrete column for a building with a fixed end support and a central span, how do I determine the shear force and bending moment values using the provided tables for different load types?", "lang": "en"}
+{"chunk_id": "is456-94-0", "query": "Can shear forces calculated at the support be directly applied to design a member's section, provided compression isn't introduced by the support's reaction?", "lang": "en"}
+{"chunk_id": "is456-94-0", "query": "Support reaction causing end compression: Shear design at 'd' vs. 'd+x'?", "lang": "en"}
+{"chunk_id": "is456-94-0", "query": "When designing a beam under a uniformly distributed load, and the load is significantly off-center, is it permissible to adjust moment calculations for a more simplified design approach?", "lang": "en"}
+{"chunk_id": "is456-95-0", "query": "What defines the 'effective depth' of a beam according to IS 456, and how does it account for finishing and wear?", "lang": "en"}
+{"chunk_id": "is456-95-0", "query": "T-beam and L-beam design: What's the minimum transverse reinforcement requirement when the slab acts as the compression flange?", "lang": "en"}
+{"chunk_id": "is456-95-0", "query": "If I'm designing a T-beam, how must the slab be connected to the web to meet the code's specifications, specifically regarding bonding and reinforcement?", "lang": "en"}
+{"chunk_id": "is456-96-0", "query": "How do I calculate the effective flange width for a T-beam or L-beam design, considering support conditions and the influence of the web's thickness?", "lang": "en"}
+{"chunk_id": "is456-96-0", "query": "Web deflection limits for beams – span to depth ratio?", "lang": "en"}
+{"chunk_id": "is456-96-0", "query": "What's the maximum allowable deflection for a single beam span based on its depth and the distance between supporting beams?", "lang": "en"}
+{"chunk_id": "is456-97-0", "query": "What are the maximum allowable deflections for a beam, considering factors like temperature, creep, and shrinkage, based on its span length?", "lang": "en"}
+{"chunk_id": "is456-97-0", "query": "Span/250 deflection limit", "lang": "en"}
+{"chunk_id": "is456-97-0", "query": "How do I adjust beam deflection limits for longer spans (over 10m) and when considering steel reinforcement tension, specifically referencing figures for modification factors?", "lang": "en"}
+{"chunk_id": "is456-97-1", "query": "How do I determine the required steel area for a beam based on its width and depth, considering the influence of tensile reinforcement?", "lang": "en"}
+{"chunk_id": "is456-97-1", "query": "fy IS STEEL", "lang": "en"}
+{"chunk_id": "is456-97-1", "query": "If I need to calculate beam deflections, what annex should I consult for the appropriate method?", "lang": "en"}
+{"chunk_id": "is456-98-0", "query": "What are the maximum allowable spans for simply supported or continuous beams to maintain lateral stability, considering the beam's depth and breadth?", "lang": "en"}
+{"chunk_id": "is456-98-0", "query": "beam restraint distance", "lang": "en"}
+{"chunk_id": "is456-98-0", "query": "How far can a cantilever beam extend from its support before needing a closer lateral restraint?", "lang": "en"}
+{"chunk_id": "is456-100-0", "query": "When designing a slab connected monolithically to supports, how should bending moments be determined considering the support’s influence on the slab’s behavior?", "lang": "en"}
+{"chunk_id": "is456-100-0", "query": "Continuous slab rotation or fixed support?", "lang": "en"}
+{"chunk_id": "is456-100-0", "query": "If a slab is cast simultaneously with beams supporting it, and the beams exhibit fixity, what additional design considerations are needed for the beam itself?", "lang": "en"}
+{"chunk_id": "is456-99-0", "query": "What span-to-depth ratios can be used for calculating deflection in a two-way slab design when using mild steel reinforcement up to a span of 3.5 meters, and how does this change if using higher strength Fe 415 bars?", "lang": "en"}
+{"chunk_id": "is456-99-0", "query": "Slab deflection limits for Class 3 loading", "lang": "en"}
+{"chunk_id": "is456-99-0", "query": "For a continuous slab spanning over supports, does the design follow the rules for continuous beams, or are there specific considerations for slabs spanning one direction and supported?", "lang": "en"}
+{"chunk_id": "is456-101-0", "query": "How does the design account for concentrated loads on a solid slab supported on two edges, specifically regarding the effective width utilized to determine bending moments?", "lang": "en"}
+{"chunk_id": "is456-101-0", "query": "effective width slab concentrated load", "lang": "en"}
+{"chunk_id": "is456-101-0", "query": "If a load is close to an unsupported edge of a slab, what restrictions apply to the calculation of the effective width used in the design to resist bending moments?", "lang": "en"}
+{"chunk_id": "is456-101-1", "query": "When designing a reinforced concrete slab subjected to multiple load scenarios, can the structural calculations for each individual load be performed independently, provided they are calculated using the same method?", "lang": "en"}
+{"chunk_id": "is456-101-1", "query": "Overlapping slab widths – how is a reinforced concrete slab designed when its effective width extends over an adjacent slab carrying a different load?", "lang": "en"}
+{"chunk_id": "is456-101-1", "query": "If a concrete slab supports two distinct loads that partially overlap, what design approach is required to ensure the combined structural integrity of the overlapping area?", "lang": "en"}
+{"chunk_id": "is456-102-0", "query": "What are the typical 'k' values used in the design of simply supported and continuous solid slabs according to IS 456, and how do they change with slab thickness?", "lang": "en"}
+{"chunk_id": "is456-102-0", "query": "Cantilever slab effective width calculation – what’s the maximum width limit considering the cantilever length?", "lang": "en"}
+{"chunk_id": "is456-102-0", "query": "If a concentrated load is positioned close to the end of a cantilever slab, what's the maximum allowable effective width, and how does the distance of the load from the support affect this value?", "lang": "en"}
+{"chunk_id": "is456-103-0", "query": "When designing a solid slab, can the width used for flexural calculations be the same as that recommended for a similar slab with differing flexural stiffnesses?", "lang": "en"}
+{"chunk_id": "is456-103-0", "query": "Slab analysis – transverse/longitudinal rigidity ratio", "lang": "en"}
+{"chunk_id": "is456-103-0", "query": "If a slab is spanning in two directions at right angles, what design approaches are permitted for calculating bending moments under uniform or concentrated loads, and what theoretical models are generally acceptable?", "lang": "en"}
+{"chunk_id": "is456-104-0", "query": "How do I account for differing support reactions when designing a solid slab spanning across two adjacent panels with unequal loading conditions, such as beams supporting the slab at right angles?", "lang": "en"}
+{"chunk_id": "is456-104-0", "query": "Unequal slab support moments", "lang": "en"}
+{"chunk_id": "is456-104-0", "query": "If I'm calculating support moments for solid slabs in adjacent panels spanning in two directions, and the calculations are significantly different, what’s the recommended approach to adjust them?", "lang": "en"}
+{"chunk_id": "is456-105-0", "query": "When designing a column, how do I determine the total bending moment at the midspan, considering the support conditions?", "lang": "en"}
+{"chunk_id": "is456-105-0", "query": "Effective length for compression members", "lang": "en"}
+{"chunk_id": "is456-105-0", "query": "If a column’s lateral dimension is greater than three times its height, what’s the approach to calculating the bending moment at midspan?", "lang": "en"}
+{"chunk_id": "is456-106-0", "query": "How do I adjust support moments for long compression members to account for stiffness differences between spans?", "lang": "en"}
+{"chunk_id": "is456-106-0", "query": "Effective depth for tension steel – what's the minimum requirement for slender compression members?", "lang": "en"}
+{"chunk_id": "is456-106-0", "query": "If the calculated support moments after adjusting for stiffness are significantly high, how much additional tension steel should I add at the supports to ensure stability?", "lang": "en"}
+{"chunk_id": "is456-107-0", "query": "How do I determine the effective unsupported length of a column when it's part of a flat slab structure, specifically considering the influence of the capital or a drop panel?", "lang": "en"}
+{"chunk_id": "is456-107-0", "query": "Bracket support distance?", "lang": "en"}
+{"chunk_id": "is456-107-0", "query": "For a column braced with struts, what’s the maximum allowable angle between the vertical planes of the struts to ensure a stable lateral restraint, and what's the minimum required size of those struts themselves?", "lang": "en"}
+{"chunk_id": "is456-110-0", "query": "How do I calculate the required length of reinforcing bars to ensure adequate anchorage, considering the bar's diameter and the intended tensile stress under design loads?", "lang": "en"}
+{"chunk_id": "is456-110-0", "query": "Bond stress values for M25 concrete bars", "lang": "en"}
+{"chunk_id": "is456-110-0", "query": "If I'm bundling four reinforcing bars, what adjustment should I make to the development length to account for the increased friction between them?", "lang": "en"}
+{"chunk_id": "is456-108-0", "query": "What is the maximum allowable unsupported length for a column based on its dimensions, and how does this relate to its lateral dimensions?", "lang": "en"}
+{"chunk_id": "is456-108-0", "query": "Column slenderness – what’s the limit for unsupported length versus the column's smallest dimension?", "lang": "en"}
+{"chunk_id": "is456-108-0", "query": "If I'm designing a column and need to account for eccentricity, what’s the minimum eccentricity I must ensure, considering both the unsupported length and any lateral dimensions, particularly in a reinforced concrete situation?", "lang": "en"}
+{"chunk_id": "is456-109-0", "query": "Can I use different grades of reinforcement steel within the same concrete member, and if so, what's the rule regarding their roles – primary versus secondary?", "lang": "en"}
+{"chunk_id": "is456-109-0", "query": "Bundled reinforcement bars – what’s the maximum diameter allowed and what’s the crucial requirement for ensuring their integrity?", "lang": "en"}
+{"chunk_id": "is456-109-0", "query": "When detailing for seismic resistance, should I always follow the guidelines outlined in IS 13920, or are there exceptions, particularly when dealing with large diameter bars in column construction?", "lang": "en"}
+{"chunk_id": "is456-111-0", "query": "How much hook anchorage is required for a bar with a diameter of 150mm, and what are the limitations on this anchorage value?", "lang": "en"}
+{"chunk_id": "is456-111-0", "query": "Deformed bars in tension can be used without end anchors if development length is sufficient, but what’s the typical method for securing plain bars in tension?", "lang": "en"}
+{"chunk_id": "is456-111-0", "query": "If a straight compression bar extends beyond a bend, how is that extra length calculated for development length purposes, and can a mechanical device be used for anchorage with approval?", "lang": "en"}
+{"chunk_id": "is456-113-0", "query": "How is the bearing stress calculated within a bend in reinforced concrete, considering factors like tensile force, bar size, and the distance between reinforcing bars?", "lang": "en"}
+{"chunk_id": "is456-113-0", "query": "Bend reinforcement design - bar diameter?", "lang": "en"}
+{"chunk_id": "is456-113-0", "query": "If a bent tension bar creates a risk of concrete splitting due to changing tension, what's the recommended solution for reinforcing the bend – adding links or stirrups?", "lang": "en"}
+{"chunk_id": "is456-114-0", "query": "When curtailing reinforcement in a concrete member, how far must the bars extend beyond the point where they no longer provide flexural resistance?", "lang": "en"}
+{"chunk_id": "is456-114-0", "query": "Reinforcement curtailment – bar diameter?", "lang": "en"}
+{"chunk_id": "is456-114-0", "query": "If I'm shortening reinforcement at a support, what’s the maximum distance I can cut the bars back, and what other conditions must be met simultaneously?", "lang": "en"}
+{"chunk_id": "is456-112-0", "query": "For beams with M30 concrete and inclined shear reinforcement, what are the minimum development lengths required based on the tension and compression zones, and how do these change with concrete grade?", "lang": "en"}
+{"chunk_id": "is456-112-0", "query": "Shear reinforcement bending angles - what are the specified lengths beyond the curve for 90°, 135°, and 180° bends?", "lang": "en"}
+{"chunk_id": "is456-112-0", "query": "If a shear reinforcement bar is bent through a 90-degree radius using a bar of at least its own diameter, what’s the minimum length of continuation beyond the curve needed for adequate anchorage?", "lang": "en"}
+{"chunk_id": "is456-115-0", "query": "When terminating flexural reinforcement in a beam, what shear strength limitations and additional reinforcement requirements must be met to ensure structural stability?", "lang": "en"}
+{"chunk_id": "is456-115-0", "query": "Excessive stirrup spacing for cut-off flexural bars – what’s the maximum allowed based on beam breadth and reinforcement grade?", "lang": "en"}
+{"chunk_id": "is456-115-0", "query": "If cutting a 36mm diameter bar in a concrete beam, what additional flexural reinforcement area and shear strength criteria are needed beyond the standard to maintain design integrity?", "lang": "en"}
+{"chunk_id": "is456-117-0", "query": "How much reinforcement is needed at a support to create negative moment resistance, and what’s the minimum distance those bars must extend beyond the beam's bending point?", "lang": "en"}
+{"chunk_id": "is456-117-0", "query": "Bundle bar termination", "lang": "en"}
+{"chunk_id": "is456-117-0", "query": "When is special end anchorage required for tension reinforcement, specifically regarding sloped footings or deep beams?", "lang": "en"}
+{"chunk_id": "is456-116-0", "query": "How much positive reinforcement is needed to resist bending moments in a continuous beam, and what's the minimum length it must extend into the support?", "lang": "en"}
+{"chunk_id": "is456-116-0", "query": "Reinforcement diameter for moment resistance – what’s the limit?", "lang": "en"}
+{"chunk_id": "is456-116-0", "query": "If a beam is part of the building’s lateral load resistance, how does the anchorage of that positive reinforcement differ from standard requirements, particularly at simple supports?", "lang": "en"}
+{"chunk_id": "is456-118-0", "query": "How should reinforcing bar splices be positioned in concrete members to optimize load-bearing capacity and prevent stress concentrations?", "lang": "en"}
+{"chunk_id": "is456-118-0", "query": "Splice staggering", "lang": "en"}
+{"chunk_id": "is456-118-0", "query": "When should I increase lap lengths or use spirals around a reinforcing bar splice to ensure adequate strength in a flexural member, particularly when multiple bars are spliced at a critical location?", "lang": "en"}
+{"chunk_id": "is456-120-0", "query": "What’s the minimum distance concrete cover needs to be provided to reinforcement bars when casting a concrete element, considering the finished surface?", "lang": "en"}
+{"chunk_id": "is456-120-0", "query": "Concrete cover requirements", "lang": "en"}
+{"chunk_id": "is456-120-0", "query": "How far away from the top of cast concrete should we place the reinforcement bars to ensure adequate protection against environmental factors?", "lang": "en"}
+{"chunk_id": "is456-119-0", "query": "When using lap splices for reinforcing bars larger than 36mm, what are the minimum requirements for ensuring adequate strength and what additional measures are needed if welding isn’t possible?", "lang": "en"}
+{"chunk_id": "is456-119-0", "query": "Lap splice bar length calculation – what’s the maximum allowable length for a tension bar lap splice, and how does it differ for direct tension?", "lang": "en"}
+{"chunk_id": "is456-119-0", "query": "If I'm splicing two bars in compression using an end-bearing method, what is the minimum required length of the straight portion of the bar, and what considerations apply to ensuring a proper bearing surface?", "lang": "en"}
+{"chunk_id": "is456-121-1", "query": "What are the specific requirements for overlapping reinforcing bars when splicing welded wire fabric, particularly concerning the minimum overlap distance?", "lang": "en"}
+{"chunk_id": "is456-121-1", "query": "Welded bar splice strength – what percentage of the design strength is applied for compression splices versus mechanical connections?", "lang": "en"}
+{"chunk_id": "is456-121-1", "query": "If using needle vibrators, how can the minimum horizontal distance between reinforcing bars be adjusted, and what considerations are needed for spacing between different bar groups?", "lang": "en"}
+{"chunk_id": "is456-121-0", "query": "How does the diameter of lapped bars, particularly when dealing with deformed or crimped bars, affect the required lap length to ensure adequate concrete cover and prevent shear failure?", "lang": "en"}
+{"chunk_id": "is456-121-0", "query": "Lapped bar spacing – what’s the rule regarding minimum distances between laps, and when do I need to increase the lap length to account for bundled bars?", "lang": "en"}
+{"chunk_id": "is456-121-0", "query": "If I'm splicing bars of different diameters, what diameter should I use to determine the necessary lap length for compression members, and how does this relate to the development length?", "lang": "en"}
+{"chunk_id": "pmgsy-2", "query": "What was the rationale behind the launch of the Pradhan Mantri Gram Sadak Yojana (PMGSY)?", "lang": "en"}
+{"chunk_id": "pmgsy-2", "query": "What is the current fuel tax rate specified for PMGSY projects, and what type of fuel is it applied to?", "lang": "en"}
+{"chunk_id": "pmgsy-2", "query": "पीएमजीएसवाई शुरू करने का मुख्य उद्देश्य क्या था?", "lang": "hi"}
+{"chunk_id": "pmgsy-3", "query": "What is the target timeline for connecting settlements with populations of 500 or more via all-weather roads, as outlined in the PMGSY program?", "lang": "en"}
+{"chunk_id": "pmgsy-3", "query": "Which specific geographic areas – including hilly states and desert regions – are prioritized for road construction under this initiative?", "lang": "en"}
+{"chunk_id": "pmgsy-3", "query": "अनुसूचित जनजातीय क्षेत्रों में, 250 से अधिक आबादी वाली बसावटों को सड़क संपर्क प्रदान करने का उद्देश्य क्या है?", "lang": "hi"}
+{"chunk_id": "pmgsy-1", "query": "What is the primary objective of the PMGSY program regarding rural road development, specifically concerning its impact on agricultural income and employment? ", "lang": "en"}
+{"chunk_id": "pmgsy-1", "query": "Approximately what percentage of settlements in India currently lack consistent road connectivity, and what is the typical condition of roads established in these areas? ", "lang": "en"}
+{"chunk_id": "pmgsy-1", "query": "ग्रामीण सड़कों का मुख्य उद्देश्य क्या है, जो कि कृषि आय और रोजगार के अवसरों को बढ़ावा देने के साथ-साथ ग्रामीण विकास में कैसे योगदान करते हैं? और मौजूदा स्थितियों में सड़कों की गुणवत्ता कैसी होती है?", "lang": "hi"}
+{"chunk_id": "pmgsy-0", "query": "What are the key responsibilities outlined for the State Quality Coordinator in the monitoring and inspection of road construction under the Pradhan Mantri Gram Sadak Yojana (PMGSY)?", "lang": "en"}
+{"chunk_id": "pmgsy-0", "query": "How does the PMGSY project proposal process work, from preparation to approval, and what role does the Empowered Committee play in the review and sanctioning of these proposals?", "lang": "en"}
+{"chunk_id": "pmgsy-0", "query": "राज्य स्तरीय एजेंसियों को PMGSY परियोजना के कार्यान्वयन में किस प्रकार की जिम्मेदारियां सौंपी जाती हैं, खासकर निविदा प्रक्रिया और कार्यों के पर्यवेक्षण के संदर्भ में?", "lang": "hi"}
+{"chunk_id": "pmgsy-4", "query": "Under PMGSY, what criteria are used to determine which existing rural roads receive upgrades, specifically concerning population thresholds?", "lang": "en"}
+{"chunk_id": "pmgsy-4", "query": "If a state has already achieved connectivity for a significant portion of eligible settlements, what is the maximum percentage of the state’s allocation that can still be dedicated to road improvement projects?", "lang": "en"}
+{"chunk_id": "pmgsy-4", "query": "सड़क सुधार कार्यों में प्राथमिकता कैसे निर्धारित की जाएगी, खासकर उन मार्गों के लिए जो अधिक यातायात वाले हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-5", "query": "What constitutes a 'settlement' for the purpose of PMGSY road alignment definitions, specifically concerning population size and distance from existing roads?", "lang": "en"}
+{"chunk_id": "pmgsy-5", "query": "Under the PMGSY guidelines, how is a settlement considered 'permanent' and therefore ineligible for maintenance work despite deteriorating road conditions?", "lang": "en"}
+{"chunk_id": "pmgsy-5", "query": "एक बस्ती को पीएमजीएसवाई में सड़क मार्ग परिभाषा के लिए क्या माना जाता है, विशेष रूप से जनसंख्या के आकार और मौजूदा सड़कों से दूरी के संदर्भ में?", "lang": "hi"}
+{"chunk_id": "pmgsy-6", "query": "What is the primary source data used to determine the population size of a settlement for PMGSY road planning?", "lang": "en"}
+{"chunk_id": "pmgsy-6", "query": "Under what circumstances can the population of multiple adjacent settlements be combined when assessing a settlement's size, particularly in hilly regions?", "lang": "en"}
+{"chunk_id": "pmgsy-6", "query": "पहाड़ी क्षेत्रों में, यदि कोई बस्ती सड़क से जुड़ी नहीं है, तो वहां के लोगों को शिक्षा और स्वास्थ्य जैसी सेवाओं तक कैसे पहुंचाना संभव है?", "lang": "hi"}
+{"chunk_id": "pmgsy-7", "query": "What exactly constitutes a ‘Y route’ within the PMGSY core network, and how is it differentiated from a ‘link route’?", "lang": "en"}
+{"chunk_id": "pmgsy-7", "query": "According to the guidelines, what is the primary purpose of the link routes – specifically, how do they connect settlements to markets or other major roads?", "lang": "en"}
+{"chunk_id": "pmgsy-7", "query": "कोर नेटवर्क में ‘वाई रूट’ और ‘लिंक रूट’ के बीच मुख्य अंतर क्या है, और ये दोनों किस तरह से सेवाओं के लिए ज़रूरी हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-8", "query": "What criteria are being used to prioritize road construction projects under PMGSY, specifically concerning settlements with varying population sizes?", "lang": "en"}
+{"chunk_id": "pmgsy-8", "query": "How does the acceptable distance between a road and a settlement change depending on the terrain – specifically, what is the maximum distance in mountainous areas considered 'connected' for the purposes of PMGSY road prioritization?", "lang": "en"}
+{"chunk_id": "pmgsy-8", "query": "पहाड़ी क्षेत्रों में, सड़क से 500 मीटर की दूरी को 'जुड़ा हुआ' मानने के लिए पथ की लंबाई कितनी होनी चाहिए?", "lang": "hi"}
+{"chunk_id": "pmgsy-9", "query": "What types of roads are explicitly excluded from the PMGSY program, and why?", "lang": "en"}
+{"chunk_id": "pmgsy-9", "query": "Can you define ‘Other District Roads’ and ‘Gram Roads’ as they relate to PMGSY eligibility criteria?", "lang": "en"}
+{"chunk_id": "pmgsy-9", "query": "शहरी सड़कों और अन्य राजमार्गों को पीएमजीएसवाई में शामिल नहीं किया जा सकता है? ग्रामीण सड़कों के लिए 'अन्य जिला सड़कें' और 'ग्राम सड़कें' का क्या अर्थ है?", "lang": "hi"}
+{"chunk_id": "pmgsy-11", "query": "What constitutes a 'permanent' road under the PMGSY scheme, particularly regarding drainage systems?", "lang": "en"}
+{"chunk_id": "pmgsy-11", "query": "How does the design of road drainage, specifically the presence of cross-slopes, determine whether a road is classified as permanent for the purposes of the scheme?", "lang": "en"}
+{"chunk_id": "pmgsy-11", "query": "बारिश के मौसम में अनुपयोगी सड़कों को बारहमासी सड़क बनाने के लिए नालियों का निर्माण कैसे किया जाएगा?", "lang": "hi"}
+{"chunk_id": "pmgsy-10", "query": "Can a PMGSY project be initiated in a village already connected by a permanent road, and if so, under what conditions?", "lang": "en"}
+{"chunk_id": "pmgsy-10", "query": "How is road connectivity for previously isolated settlements treated within the PMGSY framework – is it considered a new road construction or simply a repair/upgrade?", "lang": "en"}
+{"chunk_id": "pmgsy-10", "query": "यदि किसी गाँव में पहले से ही एक स्थायी सड़क के माध्यम से संपर्क है, तो क्या पीएमजीएसवाई के तहत परियोजना शुरू करने की अनुमति दी जाएगी, और यदि हाँ, तो किन परिस्थितियों में?", "lang": "hi"}
+{"chunk_id": "pmgsy-12", "query": "What types of road surfacing are permitted for repair under the Pradhan Mantri Gram Sadak Yojana (PMGSY) scheme? Specifically, is resurfacing with asphalt or concrete allowed?", "lang": "en"}
+{"chunk_id": "pmgsy-12", "query": "According to the PMGSY guidelines, what standard specifications should be used for the construction and repair of rural roads?", "lang": "en"}
+{"chunk_id": "pmgsy-12", "query": "पहाड़ी सड़कों के लिए ग्रामीण सड़क नियमावली में वर्णित नहीं किए गए पहलुओं को लागू करने के लिए क्या प्रावधान हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-15", "query": "What is the initial planning stage for a PMGSY rural road project, and how is it aligned with local priorities?", "lang": "en"}
+{"chunk_id": "pmgsy-15", "query": "How does the project define 'core network' for a block, and what distance constitutes acceptable access to a settlement?", "lang": "en"}
+{"chunk_id": "pmgsy-15", "query": "सड़क संपर्क के लिए बसावटों की दूरी कैसे निर्धारित की जाएगी, और लोगों की अपेक्षाओं को सड़क योजना में शामिल करने का क्या तरीका है?", "lang": "hi"}
+{"chunk_id": "pmgsy-14", "query": "How does the District Rural Road Plan define the existing road network and what criteria are used to determine the priority of new road construction projects?", "lang": "en"}
+{"chunk_id": "pmgsy-14", "query": "What is the role of the District Panchayat in establishing the weighting system for different services when proposing new road connections under the PMGSY scheme?", "lang": "en"}
+{"chunk_id": "pmgsy-14", "query": "ग्रामीण सड़कों के लिए प्राथमिकता तय करते समय जिला पंचायत का क्या काम है, खासकर अलग-अलग सेवाओं के लिए वेटेज निर्धारित करने में?", "lang": "hi"}
+{"chunk_id": "pmgsy-13", "query": "What role do the State Level Steering Committees and District Panchayats play in the planning process for rural road projects under the PMGSY scheme?", "lang": "en"}
+{"chunk_id": "pmgsy-13", "query": "How are the priorities of elected representatives, such as Members of Parliament and Members of the Legislative Assembly, incorporated when defining the core network for a rural road scheme?", "lang": "en"}
+{"chunk_id": "pmgsy-13", "query": "कोर नेटवर्क बनाते समय निर्वाचित प्रतिनिधियों (जैसे संसद सदस्यों और विधायकों) की प्राथमिकताओं को कैसे ध्यान में रखा जाता है, और जिला ग्रामीण सड़क योजना में विभिन्न एजेंसियों की भूमिका क्या है?", "lang": "hi"}
+{"chunk_id": "pmgsy-16", "query": "What is the approval process for a core road network, specifically regarding the involvement of district and state-level agencies?", "lang": "en"}
+{"chunk_id": "pmgsy-16", "query": "Can a new road alignment be proposed under PMGSY unless it's incorporated into the established core network?", "lang": "en"}
+{"chunk_id": "pmgsy-16", "query": "क्या कोर नेटवर्क में शामिल नहीं होने पर प्रधानमंत्री ग्राम सड़क योजना के तहत कोई नया सड़क निर्माण प्रस्तावित किया जा सकता है?", "lang": "hi"}
+{"chunk_id": "pmgsy-18", "query": "How does the allocation for a district account for previously constructed roads under the PMGSY scheme or other related programs?", "lang": "en"}
+{"chunk_id": "pmgsy-18", "query": "Will the reported road length for a district change annually until all eligible habitations within that district are connected?", "lang": "en"}
+{"chunk_id": "pmgsy-18", "query": "सड़क लंबाई के आंकड़े कब तक बदलते रहेंगे जब तक सभी संपर्कविहीन गांवों को शामिल नहीं कर लिया जाता?", "lang": "hi"}
+{"chunk_id": "pmgsy-19", "query": "Under the PMGSY 5-Finance funding scheme, what additional funds are specifically allocated to districts bordering Pakistan or China, and how is this determined?", "lang": "en"}
+{"chunk_id": "pmgsy-19", "query": "For which districts, in conjunction with the Ministry of Home Affairs, does the scheme provide a supplementary allocation of 5% of the annual diesel subsidy for rural road projects?", "lang": "en"}
+{"chunk_id": "pmgsy-19", "query": "वामपंथी उग्रवाद वाले क्षेत्रों के लिए, गृह मंत्रालय के समन्वय में, ग्रामीण सड़क परियोजनाएँ किन विशिष्ट मानदंडों के आधार पर अतिरिक्त धन प्राप्त कर सकते हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-17", "query": "What percentage of the total road length for new connections and repairs should a state allocate within a district, based on the need to connect isolated habitations and the extent of existing road improvements?", "lang": "en"}
+{"chunk_id": "pmgsy-17", "query": "How does the state determine the distribution of funds across districts for PMGSY projects, considering both the creation of new roads and the maintenance/upgradation of existing ones?", "lang": "en"}
+{"chunk_id": "pmgsy-17", "query": "राज्य सरकार प्रत्येक जिले में प्रधानमंत्री ग्राम सड़क योजना के तहत सड़क निर्माण और सुधार के लिए धन का आवंटन कैसे करती है, खासकर उन बस्तियों को जोड़ने के लिए जो पहले संपर्क में नहीं हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-21", "query": "What’s the frequency with which states are required to assess the condition of rural road networks and which roads are included in that assessment?", "lang": "en"}
+{"chunk_id": "pmgsy-21", "query": "How will the pavement condition of roads be rated, and what format will the results of the survey be documented in?", "lang": "en"}
+{"chunk_id": "pmgsy-21", "query": "मरम्मत और रखरखाव के लिए सड़कों की स्थिति का सर्वेक्षण करने के लिए राज्य किस अंतराल पर मूल्यांकन करेंगे, और किस प्रकार की सड़कों को शामिल किया जाएगा?", "lang": "hi"}
+{"chunk_id": "pmgsy-23", "query": "Under the PMGSY guidelines, what criteria are used to determine which existing paved roads are *not* eligible for immediate repair, specifically regarding their age and condition?", "lang": "en"}
+{"chunk_id": "pmgsy-23", "query": "How should states approach estimating the traffic volume for prioritization of road repair projects, and what specific data collection methods are recommended (e.g., ADT surveys, load testing)?", "lang": "en"}
+{"chunk_id": "pmgsy-23", "query": "सड़क मरम्मत के लिए प्राथमिकता कैसे निर्धारित की जाती है, विशेष रूप से पुरानी सड़कों को क्यों नहीं ठीक किया जाता है और यातायात सर्वेक्षण का महत्व क्या है?", "lang": "hi"}
+{"chunk_id": "pmgsy-22", "query": "For districts where entirely new road construction isn't needed, what specific criteria are used to prioritize road repairs based on PCI classification, and how does that impact the repair scope?", "lang": "en"}
+{"chunk_id": "pmgsy-22", "query": "When a road is constructed as WBM, what specific improvements are required during the repair process beyond simply bringing it to a 'good condition'?", "lang": "en"}
+{"chunk_id": "pmgsy-22", "query": "अगर सड़क डब्ल्यूबीएम के रूप में बनाई गई है, तो मरम्मत के दौरान 'अच्छी स्थिति' में लाने के लिए ज्यामितीय और निकासी के साथ-साथ सड़क चिन्हों में क्या विशिष्ट सुधारों की आवश्यकता होगी?", "lang": "hi"}
+{"chunk_id": "pmgsy-26", "query": "Under what conditions will new road contacts be prioritized for states where existing rural roads already maintain a PCI rating of 3 or higher?", "lang": "en"}
+{"chunk_id": "pmgsy-26", "query": "When is prioritization of new road construction based on the CNCPL order applied – specifically, in areas with roads already meeting a PCI score of 3 or above?", "lang": "en"}
+{"chunk_id": "pmgsy-26", "query": "जिन राज्यों में ग्रामीण मार्गों की स्थिति पहले से ही पीसीआई 3 से अधिक है, वहां नए संपर्क प्राथमिकता कैसे निर्धारित किए जाएंगे, यह बताएं?", "lang": "hi"}
+{"chunk_id": "pmgsy-24", "query": "What criteria are used to prioritize road repair projects under the PMGSY scheme, specifically regarding roads that have already experienced minor damage?", "lang": "en"}
+{"chunk_id": "pmgsy-24", "query": "How is the District-wise Comprehensive Repair Priority List (CUPPL) structured, and what data points are included for each priority category?", "lang": "en"}
+{"chunk_id": "pmgsy-24", "query": "सीयूपीएल बनाते समय, लाभान्वित बसावटों की कुल संख्या और पीसीआई (PCI) रेटिंग जैसे डेटा का उपयोग किस प्रकार किया जाएगा ताकि सड़क की गुणवत्ता का आकलन किया जा सके?", "lang": "hi"}
+{"chunk_id": "pmgsy-25", "query": "What is the formal process for approving a CNCPOL/CUPOL after it's been completed and verified, and how does it relate to the district panchayat? ", "lang": "en"}
+{"chunk_id": "pmgsy-25", "query": "How does the CNCPOL serve as the basis for new road proposals versus its role in upgrading existing roads within a district? ", "lang": "en"}
+{"chunk_id": "pmgsy-25", "query": "जिला पंचायत नए सड़क संपर्क प्रस्तावों के लिए सीएनसीपीएल का उपयोग कैसे करेगा, और निचले स्तर की पंचायती राज संस्थाओं के सुझावों को इसमें शामिल करने की प्रक्रिया क्या है?", "lang": "hi"}
+{"chunk_id": "pmgsy-27", "query": "Under the PMGSY guidelines, what’s the process for upgrading or renovating existing rural roads that are in particularly poor condition (with PCI scores of 3 or lower), and specifically when the PCI score is below 3 and the road is over 6 years old?", "lang": "en"}
+{"chunk_id": "pmgsy-27", "query": "How does the project determine the initial route selection for a new road connection when renovating existing rural tracks, considering factors like proximity to markets and higher-category roads?", "lang": "en"}
+{"chunk_id": "pmgsy-27", "query": "यदि ग्रामीण सड़कों की PCI रेटिंग 3 से कम है और वे 6 वर्ष से अधिक पुरानी हैं, तो इन सड़कों के नवीनीकरण के लिए किस प्रकार की प्रक्रिया का पालन किया जाना चाहिए, और विपणन केंद्रों तक पहुँचने के लिए कौन सी सड़कें प्राथमिकता दी जानी चाहिए?", "lang": "hi"}
+{"chunk_id": "pmgsy-31", "query": "What is the process for a Member of Parliament's road development proposal to be approved under the PMGSY scheme, specifically regarding funding allocation?", "lang": "en"}
+{"chunk_id": "pmgsy-31", "query": "How should District Panchayats document their reasons for excluding a Member of Parliament's proposal from consideration as part of the PMGSY project?", "lang": "en"}
+{"chunk_id": "pmgsy-31", "query": "संसद सदस्यों द्वारा प्रस्तुत सड़क निर्माण प्रस्तावों को स्वीकार करने के लिए जिला पंचायत से क्या अपेक्षा की जाती है, और उन्हें प्रस्ताव को अस्वीकार करने का कारण कैसे दर्ज करना चाहिए?", "lang": "hi"}
+{"chunk_id": "pmgsy-29", "query": "Under what circumstances can an existing rural thoroughfare be upgraded instead of constructing a new road, specifically when there are remaining AUD (Asset Under Development) funds?", "lang": "en"}
+{"chunk_id": "pmgsy-29", "query": "How does the Priority Selection Criteria (PSC) apply when only upgrading existing routes is necessary, and what role does the District Panchayat play in determining the order of these upgrades?", "lang": "en"}
+{"chunk_id": "pmgsy-29", "query": "नए सड़क संपर्क शुरू करने के लिए, जनसंख्या की कोई भी संख्या को देखते हुए, ग्राम पंचायत मुख्यालय, विपणन केंद्र अथवा अन्य शैक्षिक या चिकित्सीय अनिवार्य सेवाओं वाले मार्गों को प्राथमिकता कैसे दी जाएगी, और कोर नेटवर्क में अपवाद कब लागू होंगे?", "lang": "hi"}
+{"chunk_id": "pmgsy-28", "query": "When should a road with a PCI greater than 3, or one less than 6 years old, be considered for structural renewal, especially if regular maintenance hasn't been performed?  The document suggests criteria for determining when renovation is appropriate.", "lang": "en"}
+{"chunk_id": "pmgsy-28", "query": "How does the concept of a 'CNPCL' (Comprehensive New Priority List) influence the planning of new road connections within a PMGSY project, specifically concerning upgrades and extensions of existing routes?", "lang": "en"}
+{"chunk_id": "pmgsy-28", "query": "परियोजना प्रस्ताव में नए संपर्कों के लिए निर्माण लागत का अनुमान लगाने में PCI और निर्माण के समय की भूमिका क्या है, और CNPCL के अनुसार अतिरिक्त सड़कों का निर्माण कब शुरू किया जा सकता है?", "lang": "hi"}
+{"chunk_id": "pmgsy-30", "query": "Given the potential for errors in through routes identified during the CNCPL/CUPCL selection process, how should local representatives be involved in the final selection of road works within the core network annually?", "lang": "en"}
+{"chunk_id": "pmgsy-30", "query": "When submitting proposals from a Member of Parliament (MP) regarding CNCPL/CUPCL areas, what specific information should the MP provide alongside the proposal, such as potential project sizes and district-level allocations?", "lang": "en"}
+{"chunk_id": "pmgsy-30", "query": "संसद सदस्यों द्वारा Cएनसीपीएल/सीयूपीएल क्षेत्रों के लिए प्रस्ताव जमा करते समय, प्रस्ताव के साथ उन्हें किन विशिष्ट जानकारी के साथ प्रदान करना चाहिए, जैसे संभावित परियोजना आकार और जिला-स्तरीय आवंटन?", "lang": "hi"}
+{"chunk_id": "pmgsy-35", "query": "What criteria does the state-level agency use to select the execution agency for a rural road project?", "lang": "en"}
+{"chunk_id": "pmgsy-35", "query": "How is the responsibility of the execution agency divided across multiple districts when a state has designated more than one?", "lang": "en"}
+{"chunk_id": "pmgsy-35", "query": "राज्य स्तरीय एजेंसी एक ग्रामीण सड़क परियोजना के लिए निष्पादन एजेंसी का चयन करते समय किन मानदंडों का उपयोग करती है?", "lang": "hi"}
+{"chunk_id": "pmgsy-33", "query": "What documentation is required to formally initiate a PMGSY road construction project, specifically concerning land acquisition?", "lang": "en"}
+{"chunk_id": "pmgsy-33", "query": "Does the PMGSY scheme provide funding for land purchase, and if not, what options are available to state governments for securing land for road projects?", "lang": "en"}
+{"chunk_id": "pmgsy-33", "query": "भूमि अधिग्रहण की प्रक्रिया में, सार्वजनिक हित सुनिश्चित करने के लिए जमीन का विवरण कैसे दर्ज किया जाना चाहिए ताकि भविष्य में भूमि विवादों से बचा जा सके?", "lang": "hi"}
+{"chunk_id": "pmgsy-34", "query": "How can we avoid disputes related to land availability during the development of a Detailed Project Report for a rural road, specifically concerning potential conflicts with local communities?", "lang": "en"}
+{"chunk_id": "pmgsy-34", "query": "What’s the protocol for involving local stakeholders – like village heads and revenue officials – in the preparation of a Detailed Project Report for a PMGSY road project?", "lang": "en"}
+{"chunk_id": "pmgsy-34", "query": "वनभूमि की समस्या होने पर, वन विभाग के अधिकारियों को डीपीआर बनाने के दौरान कैसे शामिल किया जाना चाहिए, और इसमें कौन-कौन से लोग इस प्रक्रिया में भाग ले सकते हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-32", "query": "How is the involvement of Members of Parliament (MPs) determined when submitting proposals for rural road construction under PMGSY, specifically regarding the prioritization of road works?", "lang": "en"}
+{"chunk_id": "pmgsy-32", "query": "If a primary road work proposal is already underway in a district, will a secondary proposal for the same district be automatically rejected due to land unavailability or other logistical issues?", "lang": "en"}
+{"chunk_id": "pmgsy-32", "query": "जिला पंचायत को एक जिले के लिए प्रस्ताव को अंतिम रूप देते समय किस प्रकार की जानकारी दर्ज करनी चाहिए ताकि प्राथमिकता क्रम में सड़क के प्रस्ताव को निर्धारित किया जा सके, खासकर जमीन की अनुपलब्धता के मामले में?", "lang": "hi"}
+{"chunk_id": "pmgsy-38", "query": "What is the reporting structure for PMGSY implementation units, particularly when multiple execution agencies are involved?", "lang": "en"}
+{"chunk_id": "pmgsy-38", "query": "How does the State Rural Road Development Agency (SRRDA) function within the PMGSY framework, specifically concerning its role and staffing?", "lang": "en"}
+{"chunk_id": "pmgsy-38", "query": "राज्य स्तरीय एजेंसी (SRRDA) का ग्रामीण सड़कों के लिए मुख्य कार्य क्या है, और इसमें किस प्रकार के अधिकारी शामिल होंगे?", "lang": "hi"}
+{"chunk_id": "pmgsy-36", "query": "Which government department is designated as the primary administrative contact for execution agencies undertaking road works under PMGSY?", "lang": "en"}
+{"chunk_id": "pmgsy-36", "query": "If multiple administrative departments within a state have execution agencies, which department is ultimately responsible as the nodal department for rural road management and maintenance?", "lang": "en"}
+{"chunk_id": "pmgsy-36", "query": "ग्रामीण सड़कों के प्रबंधन और रखरखाव के लिए कौन सा प्रशासनिक विभाग अधिकृत होगा, यदि राज्य में एक से अधिक विभाग में कार्यान्वयन एजेंसियां हों?", "lang": "hi"}
+{"chunk_id": "pmgsy-39", "query": "What specific departments are required to be represented on the state-level committee overseeing PMGSY projects?", "lang": "en"}
+{"chunk_id": "pmgsy-39", "query": "Will the state-level committee review the existing designs for the core network (CNCPL and CUPL) and approve annual project proposals?", "lang": "en"}
+{"chunk_id": "pmgsy-39", "query": "राज्य स्तरीय समिति भूमि की उपलब्धता और वन विभाग से संबंधित मुद्दों को कैसे हल करेगी, खासकर कोर नेटवर्क के रखरखाव के लिए वित्तपोषण की व्यवस्था की जाँच करते हुए?", "lang": "hi"}
+{"chunk_id": "pmgsy-37", "query": "What is the process for a rural road project to receive funding from the Ministry of Rural Development, specifically concerning the establishment of a state-level agency?", "lang": "en"}
+{"chunk_id": "pmgsy-37", "query": "If a state doesn't already have a registered society or trust as a state rural road development agency (SRRDA), what steps must the nodal department take to secure funding?", "lang": "en"}
+{"chunk_id": "pmgsy-37", "query": "राज्य स्तरीय एजेंसी को निधियां प्राप्त करने के लिए, सोसायटी अधिनियम के तहत पंजीकरण की आवश्यकता कब होगी और एजेंसी के प्रमुख अधिकारी कौन होंगे?", "lang": "hi"}
+{"chunk_id": "pmgsy-43", "query": "Who is responsible for drafting the initial project proposal document under the PMGSY guidelines - the Panchayat Secretary or the Village Council representatives?", "lang": "en"}
+{"chunk_id": "pmgsy-43", "query": "What specific roles do the Panchayat Secretary, Panch, and Pradhan play in the approval process of a PMGSY project proposal?", "lang": "en"}
+{"chunk_id": "pmgsy-43", "query": "प्रस्ताव तैयार करने के लिए पंचायत सचिव और पंच/प्रधान का क्या आपसी समन्वय होना चाहिए?", "lang": "hi"}
+{"chunk_id": "pmgsy-40", "query": "What is the process for submitting a road project proposal to the State Level Agency under the PMGSY guidelines, specifically regarding the involvement of Members of Parliament?", "lang": "en"}
+{"chunk_id": "pmgsy-40", "query": "How does the State Level Agency handle a situation where a Member of Parliament’s proposed road project is not initially included in the submission?", "lang": "en"}
+{"chunk_id": "pmgsy-40", "query": "जिला पंचायत द्वारा प्रस्ताव में क्या कारण बताए जाने पर राज्य स्तरीय एजेंसी क्या समीक्षा करेगी ताकि यह सुनिश्चित हो सके कि प्रस्ताव PMGSY दिशा निर्देशों के अनुरूप है?", "lang": "hi"}
+{"chunk_id": "pmgsy-41", "query": "What is the process for ensuring proposed road projects under PMGSY fully adhere to the latest guidelines and address the concerns raised by the local Member of Parliament?", "lang": "en"}
+{"chunk_id": "pmgsy-41", "query": "Once a project proposal is submitted, who is responsible for creating a detailed project report (DPR) – is it the state committee or the Public Investment Unit (PIU)?", "lang": "en"}
+{"chunk_id": "pmgsy-41", "query": "राज्य स्तरीय समिति प्रस्तावों की समीक्षा करने के बाद, सड़क के विस्तृत परियोजना रिपोर्ट (डीपीआर) को तैयार करने के लिए कौन ज़िम्मेदार होगा? क्या यह पीआईयू होगा?", "lang": "hi"}
+{"chunk_id": "pmgsy-42", "query": "What specific steps will the Public Investment Unit (PIU) take to engage with the local community during the Detailed Project Report (DPR) preparation process, particularly regarding land acquisition and potential environmental impacts?", "lang": "en"}
+{"chunk_id": "pmgsy-42", "query": "How does the PIU’s proposed ‘transect walk’ methodology involve local stakeholders – including revenue officials and village heads – and what is the purpose of this walk in determining the optimal road alignment?", "lang": "en"}
+{"chunk_id": "pmgsy-42", "query": "ग्राम पंचायत के सचिव को दस्तावेज़ तैयार करने का क्या उद्देश्य है, और पंचायत के प्रधान एवं पंच द्वारा उस पर हस्ताक्षर करने का क्या महत्व है, जैसा कि इस प्रक्रिया में बताया गया है?", "lang": "hi"}
+{"chunk_id": "pmgsy-47", "query": "Under what circumstances can a settlement be considered ‘contacted’ under PMGSY guidelines, specifically relating to the initial road construction phase?", "lang": "en"}
+{"chunk_id": "pmgsy-47", "query": "What are the specific requirements for slope stabilization and embankment construction in the first phase of a PMGSY road project?", "lang": "en"}
+{"chunk_id": "pmgsy-47", "query": "अगर ढलान को मजबूत करने और बिटुमिन की सतह बिछाने का काम दूसरे चरण में पूरा नहीं हुआ, तो उस बस्ती को संपर्कयुक्त बस्ती माना जा सकता है या नहीं?", "lang": "hi"}
+{"chunk_id": "pmgsy-46", "query": "Under what circumstances does a detailed project report (DPR) need to be prepared for bridges, specifically concerning lengths exceeding 45 meters?", "lang": "en"}
+{"chunk_id": "pmgsy-46", "query": "What are the cost implications for bridge projects exceeding 50 meters in length, particularly regarding the responsibility of the state government and the handling of riverbed construction costs?", "lang": "en"}
+{"chunk_id": "pmgsy-46", "query": "45 मीटर से अधिक लंबाई वाले पुलों के लिए विस्तृत परियोजना रिपोर्ट बनाने की आवश्यकता कब होती है, और 50 मीटर से अधिक लंबाई वाले पुलों के लिए राज्य सरकार की लागत जिम्मेदारी क्या है?", "lang": "hi"}
+{"chunk_id": "pmgsy-45", "query": "Under PMGSY, for low-density habitations with minimal anticipated traffic growth, what is the maximum permissible road width that can be utilized?", "lang": "en"}
+{"chunk_id": "pmgsy-45", "query": "Regarding the construction of a road adjacent to a settlement, what is the minimum requirement for paved shoulders – specifically, what is the maximum length and material allowed (e.g., concrete or paving stones)?", "lang": "en"}
+{"chunk_id": "pmgsy-45", "query": "क्या स्थानीय रूप से उपलब्ध सामग्री, जैसे राख, का उपयोग तकनीकी मानकों और कोडों के अनुसार किया जा सकता है, और यदि पुल की लंबाई 45 मीटर से अधिक है तो क्या सुपरिटेंडिंग इंजीनियर और राज्य तकनीकी एजेंसी द्वारा स्थल निरीक्षण आवश्यक है?", "lang": "hi"}
+{"chunk_id": "pmgsy-44", "query": "According to the IRC guidelines (specifically SP 20:2002), what are the minimum technical specifications and geometric design standards that the PIU must adhere to when designing rural roads under PMGSY?", "lang": "en"}
+{"chunk_id": "pmgsy-44", "query": "For settlements with a population of less than 4000, what factors – such as traffic volume and soil type – should be considered when determining the design of the road surface, and what is the typical traffic volume requirement for design?", "lang": "en"}
+{"chunk_id": "pmgsy-44", "query": "ग्रामीण सड़कों के निर्माण में, यदि जनसंख्या 4000 से कम है, तो यातायात की मात्रा और मिट्टी के प्रकार के आधार पर सड़क की सतह के डिजाइन के लिए IRC की ग्रामीण सड़क नियमावली (आईआरसी:एसपी 20:2002) के अनुसार क्या विशिष्ट मानदंड और मानक लागू होंगे?", "lang": "hi"}
+{"chunk_id": "pmgsy-52", "query": "What is the process for the Public Investment Programme (PIU) to submit project proposals for review after data entry into OMMS software?", "lang": "en"}
+{"chunk_id": "pmgsy-52", "query": "What specific documentation, including detailed project reports, does the STA require when submitting project proposals for design and cost assessments?", "lang": "en"}
+{"chunk_id": "pmgsy-52", "query": "एसटीए को विस्तृत परियोजना रिपोर्टों के साथ एफ-8 डी पी आर के भाग के रूप में प्रपत्रों का उपयोग करके पीआईयू द्वारा प्रस्तुत प्रस्तावों की समीक्षा के लिए किस प्रकार की जानकारी की आवश्यकता होगी?", "lang": "hi"}
+{"chunk_id": "pmgsy-49", "query": "When contracting for the second phase of construction on a hilly road project, does the bid also include the maintenance obligations for the initial five years?", "lang": "en"}
+{"chunk_id": "pmgsy-49", "query": "How is the cost of slope clearing factored into the overall project cost, particularly in hilly areas, and who provides the funding for this work?", "lang": "en"}
+{"chunk_id": "pmgsy-49", "query": "विस्तृत परियोजना रिपोर्ट बनाते समय, जांच और सर्वेक्षण की लागत, साथ ही पहाड़ी क्षेत्रों में ट्रेस कटाई की लागत, परियोजना लागत में कैसे शामिल की जाएगी और इसे वित्तपोषित करने का स्रोत कौन होगा?", "lang": "hi"}
+{"chunk_id": "pmgsy-48", "query": "What is the maintenance schedule stipulated for newly constructed contact routes funded by state resources under the PMGSY scheme, and how does it differ from maintenance for existing rural routes requiring upgrades?", "lang": "en"}
+{"chunk_id": "pmgsy-48", "query": "For projects involving 'of wel' (presumably upgraded sections), what’s the specific maintenance duration and what type of renewal is included at the end of that period?", "lang": "en"}
+{"chunk_id": "pmgsy-48", "query": "नए निर्माण या उन्नयन के लिए सड़क रखरखाव के लिए ठेकेदार का चयन कैसे किया जाता है, और ग्रामीण सड़कों के लिए रखरखाव घटक के लिए क्या नियम हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-51", "query": "What role does the State Technical Agency (STA) play in the review process of PMGSY project proposals, specifically concerning the evaluation of DPRs and the assessment of CNCPL and CUPL?", "lang": "en"}
+{"chunk_id": "pmgsy-51", "query": "How does the National Rural Road Development Agency (NRRDA) manage and oversee the technical support provided by external agencies, including the potential addition or removal of STA and PTA designations?", "lang": "en"}
+{"chunk_id": "pmgsy-51", "query": "राष्ट्रीय ग्रामीण सड़क विकास अभिकरण (एनआरआरडीए) राज्य तकनीकी एजेंसियों (एसटीए) के साथ-साथ भारतीय प्रौद्योगिकी संस्थानों (पीटीए) को ग्रामीण सड़कों की गुणवत्ता और लागत मानकों को बेहतर बनाने के लिए किस प्रकार तकनीकी सहायता प्रदान करने के लिए नामित और समन्वयित करेगा?", "lang": "hi"}
+{"chunk_id": "pmgsy-56", "query": "Once a road alignment has been approved, what level of authority is needed to make any changes to the design?", "lang": "en"}
+{"chunk_id": "pmgsy-56", "query": "Under the PMGSY guidelines, who needs to sign off on alterations to a road's planned layout after initial approval?", "lang": "en"}
+{"chunk_id": "pmgsy-56", "query": "सड़क के लेआउट को मंजूरी मिलने के बाद, क्या जिला पंचायत, राज्य तकनीकी एजेंसी और राज्य स्तरीय स्थायी समिति की अनुमति आवश्यक है, यदि कोई बदलाव किया जाना है?", "lang": "hi"}
+{"chunk_id": "pmgsy-55", "query": "What is the process for a state government’s PMGSY project proposal to receive approval, specifically regarding the role of the empowered committee?", "lang": "en"}
+{"chunk_id": "pmgsy-55", "query": "How does the technical approval stage fit into the PMGSY project approval process, and who is responsible for ensuring that the execution agency has the necessary technical clearance?", "lang": "en"}
+{"chunk_id": "pmgsy-55", "query": "अधिकार संपन्न समिति के पास एक परियोजना प्रस्ताव का मूल्यांकन करते समय राज्य सरकार के प्रतिनिधियों को क्या भूमिका दी जाती है, और तकनीकी स्वीकृति प्राप्त करने के लिए कौन सा अधिकारी जिम्मेदार होता है?", "lang": "hi"}
+{"chunk_id": "pmgsy-53", "query": "What specific documentation, beyond the DPR, does the State Team Approval (STA) need to review to ensure compliance with PMGSY guidelines and IRC specifications, particularly concerning soil transportation charges?", "lang": "en"}
+{"chunk_id": "pmgsy-53", "query": "Under what conditions does the STA require a full DPR estimate, specifically when the anticipated traffic volume exceeds 45 CVPD?", "lang": "en"}
+{"chunk_id": "pmgsy-53", "query": "पहाड़ी सड़कों के लिए डीपीआर की समीक्षा करते समय एसटीए को किन विशिष्ट पहलुओं की जांच करनी चाहिए, जैसे कि सर्वेक्षण भ्रमण (ट्रांजेक्ट वाक) की प्रक्रिया और रोड़ी वाली सतह, स्थानीय सामग्री और राख के उपयोग से डिजाइन में बचत?", "lang": "hi"}
+{"chunk_id": "pmgsy-54", "query": "What is the process for the National Project Implementation Unit (NPIU) to receive and review project proposals submitted by Gram Sabhas for rural road construction under PMGSY?", "lang": "en"}
+{"chunk_id": "pmgsy-54", "query": "How does the State Road and Bridges Development Agency (SRRDA) fit into the PMGSY project approval workflow, specifically regarding the initial review of proposals submitted by individual Gram Panchayats?", "lang": "en"}
+{"chunk_id": "pmgsy-54", "query": "प्रपत्र एमपी-व, एमपी-II, और एमपी-III के साथ एनआरआरडीए को परियोजना प्रस्तावों को भेजने से पहले एसआरआरडीए की भूमिका क्या है, और यह सुनिश्चित करने के लिए कि प्रस्तावों को संवीक्षा किया गया है?", "lang": "hi"}
+{"chunk_id": "pmgsy-57", "query": "What triggers the tender process for a PMGSY project after the project proposal is approved and technically cleared?", "lang": "en"}
+{"chunk_id": "pmgsy-57", "query": "Under what conditions will a contractor's bid be accepted for a PMGSY tender, and what role does the State Technical Agency play?", "lang": "en"}
+{"chunk_id": "pmgsy-57", "query": "कार्य की स्वीकृति के बाद निविदा प्रक्रिया शुरू करने के लिए क्या आवश्यकता है, और एनआरआरडीए की पूर्व मंजूरी के बिना परियोजना में क्या बदलाव किए जा सकते हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-58", "query": "What specific steps are states required to take to enhance competition and ensure the validity of bids within the PMGSY scheme?", "lang": "en"}
+{"chunk_id": "pmgsy-58", "query": "Under the guidelines, what authority is granted to the State Road and Bridges Development Authority (SRRDA) regarding the solicitation and decision-making process for tenders?", "lang": "en"}
+{"chunk_id": "pmgsy-58", "query": "ओएमएमएस (OMMS) के माध्यम से निविदा सूचनाओं को ऑनलाइन डालने और ठेके के विवरण को डेटाबेस में दर्ज करने की प्रक्रिया का उद्देश्य क्या है?", "lang": "hi"}
+{"chunk_id": "pmgsy-59", "query": "What specific information must be displayed on the signage erected at the road work site within 5 days of the work order being issued, according to PMGSY guidelines?", "lang": "en"}
+{"chunk_id": "pmgsy-59", "query": "Is it mandatory for signage at rural road construction sites under PMGSY to include the contractor’s name and the project’s completion date?", "lang": "en"}
+{"chunk_id": "pmgsy-59", "query": "निर्माण कार्य के स्थल पर लगे साइनबोर्ड पर सड़क की लंबाई, लागत और निर्माण की अवधि के अतिरिक्त कौन सी जानकारी प्रदर्शित होनी चाहिए, ताकि परियोजना की पहचान स्पष्ट रूप से हो?", "lang": "hi"}
+{"chunk_id": "pmgsy-60", "query": "If the bids received for road construction projects exceed the estimated cost, who is ultimately responsible for covering the additional expenses – the state government, or the Ministry?", "lang": "en"}
+{"chunk_id": "pmgsy-60", "query": "What happens to the difference between the approved estimates and the bid prices if a state government uses the Annual Rate Schedule for tenders? Specifically, how is that premium accounted for?", "lang": "en"}
+{"chunk_id": "pmgsy-60", "query": "जब निविदा की लागत अनुमानित लागत से अधिक हो जाती है, तो राज्य सरकार का क्या प्रावधान है? क्या ओएमएमएएस में डेटा परिवर्तन एनआरआरडीए के प्राधिकरण से ही किए जाएंगे?", "lang": "hi"}
+{"chunk_id": "pmgsy-61", "query": "What is the level at which the PMGSY program is coordinated and executed – district or block?", "lang": "en"}
+{"chunk_id": "pmgsy-61", "query": "How is the management of the Project Implementation Unit (PIU) handled, and can external consultants be brought in for specialized expertise?", "lang": "en"}
+{"chunk_id": "pmgsy-61", "query": "कार्यक्रम कार्यान्वयन इकाईयों का प्रबंधन कौन करेगा और क्या एनआरआरडीए की सलाहकारों को शामिल करने की अनुमति है?", "lang": "hi"}
+{"chunk_id": "pmgsy-64", "query": "How are funds allocated to the PIU, and what factors determine the amount based on previously released funds?", "lang": "en"}
+{"chunk_id": "pmgsy-64", "query": "What adjustments are made to expenditure if work is halted or cancelled in a later stage of the PMGSY project?", "lang": "en"}
+{"chunk_id": "pmgsy-64", "query": "प्रशासनिक खर्चों और यात्रा व्यय के लिए, ओएमएमएस मॉड्यूल को अपडेट करने और पीआईयू के संपर्क को बनाए रखने के लिए कौन से विशिष्ट संस्थान शामिल किए जाने चाहिए?", "lang": "hi"}
+{"chunk_id": "pmgsy-62", "query": "What portion of travel and administrative expenses are the State Government responsible for under the PMGSY scheme, and what specific percentage is allocated for travel expenses for Program Implementation Units?", "lang": "en"}
+{"chunk_id": "pmgsy-62", "query": "How are expenses related to SRRDA and PIU agencies, particularly concerning computer hardware and laboratory equipment acquisition, handled financially?", "lang": "en"}
+{"chunk_id": "pmgsy-62", "query": "कार्यक्रम कार्यान्वयन इकाइयों के लिए प्रशासनिक खर्च में ओएमएमएस कंप्यूटरों और उनके प्रबंधन तथा परिचालन से संबंधित खर्चों का भुगतान कैसे किया जाएगा, और क्या इंटरनेट शुल्क और डेटा उपयोग शुल्क भी शामिल होंगे?", "lang": "hi"}
+{"chunk_id": "pmgsy-63", "query": "What is the allowable expenditure for hardware acquisition for newly established PIUs under the PMGSY scheme, specifically concerning initial operational setup?", "lang": "en"}
+{"chunk_id": "pmgsy-63", "query": "How does the allocation of funds for computer hardware and laboratory equipment for district and state-level labs align with the overall administrative and travel expenses for the SRRDA and PIU?", "lang": "en"}
+{"chunk_id": "pmgsy-63", "query": "पीआईयू और एसआरआरडीए के लिए कंप्यूटर हार्डवेयर और प्रयोगशाला उपकरणों के लिए धन आवंटन का अधिकतम कितना प्रतिशत प्रशासनिक खर्च और यात्रा व्यय के लिए इस्तेमाल किया जा सकता है, और इस सीमा का उपयोग गुणवत्ता निगरानी के उद्देश्यों के लिए कैसे किया जाता है?", "lang": "hi"}
+{"chunk_id": "pmgsy-68", "query": "What are the consequences for contractors if they fail to meet the deadlines specified in the tender invitation documents?", "lang": "en"}
+{"chunk_id": "pmgsy-68", "query": "How strictly will the timelines outlined in the tender invitation be enforced regarding the implementation of the PMGSY program?", "lang": "en"}
+{"chunk_id": "pmgsy-68", "query": "अनुबंध में समय सीमा का उल्लंघन होने पर ठेकेदार के खिलाफ क्या कार्रवाई की जा सकती है?", "lang": "hi"}
+{"chunk_id": "pmgsy-69", "query": "What is the deadline for reporting the completion of approved road construction projects, considering the average tender processing time of 75 days?", "lang": "en"}
+{"chunk_id": "pmgsy-69", "query": "How does the Ministry determine the release of funds for the next year's approved road projects, and what factors are involved?", "lang": "en"}
+{"chunk_id": "pmgsy-69", "query": "ठेकेदार के भुगतान में देरी से बचने के लिए, सड़क निर्माण कार्यों के सफल निष्पादन की निगरानी में क्या मानदंड महत्वपूर्ण होंगे?", "lang": "hi"}
+{"chunk_id": "pmgsy-65", "query": "Under this PMGSY program, can the construction agency impose any management fees or oversight charges on the local road construction teams?", "lang": "en"}
+{"chunk_id": "pmgsy-65", "query": "Who is responsible for covering any administrative fees – such as central oversight charges – that might be levied by the implementing agencies for these rural road projects?", "lang": "en"}
+{"chunk_id": "pmgsy-65", "query": "सड़क निर्माण कार्यों के लिए, क्या कार्यान्वयन एजेंसियां कोई भी शुल्क, जैसे कि केंद्र सरकार का नियंत्रण शुल्क, वसूल सकती हैं, या यह जिम्मेदारी राज्य सरकार की है?", "lang": "hi"}
+{"chunk_id": "pmgsy-67", "query": "What is the maximum timeframe allowed for completing a PMGSY project, calculated from the date of the work order, and how does it relate to working months?", "lang": "en"}
+{"chunk_id": "pmgsy-67", "query": "Under what conditions can the implementation timeframe for a project be extended, and what’s the maximum total duration allowed for a package with multiple roadworks?", "lang": "en"}
+{"chunk_id": "pmgsy-67", "query": "यदि परियोजना में एक से अधिक सड़क कार्यों को शामिल किया गया है, तो कुल समय सीमा कितनी होनी चाहिए, और यह कैलेंडर महीनों में कितने से अधिक नहीं हो सकता?", "lang": "hi"}
+{"chunk_id": "pmgsy-72", "query": "What specific responsibilities do state governments have regarding quality control and supervision of road construction projects under the PMGSY scheme?", "lang": "en"}
+{"chunk_id": "pmgsy-72", "query": "How does the NRDDA regulate quality control at the project level, and what documentation is required for each roadwork?", "lang": "en"}
+{"chunk_id": "pmgsy-72", "query": "ठेकेदार को भुगतान कब तक किया जाएगा यदि गुणवत्ता नियंत्रण प्रयोगशाला स्थापित नहीं की गई है या परीक्षण सफल नहीं हुए हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-74", "query": "What is the role of State Quality Monitors, and how do they differ from the Executive Engineers and PIU overseeing the road construction projects?", "lang": "en"}
+{"chunk_id": "pmgsy-74", "query": "How does the State Government ensure the quality of materials used in rural road construction, specifically regarding testing and sample collection?", "lang": "en"}
+{"chunk_id": "pmgsy-74", "query": "राज्य सरकार गुणवत्ता नियंत्रण के लिए स्वतंत्र प्रयोगशालाओं का उपयोग कब और कैसे करेगी, और इस काम में गुणवत्ता समन्वयक एसआरआरडीए की भूमिका क्या होगी?", "lang": "hi"}
+{"chunk_id": "pmgsy-70", "query": "What specific support does the National Rural Road Development Agency (NRRDA) provide under the PMGSY scheme, particularly regarding the review of project proposals?", "lang": "en"}
+{"chunk_id": "pmgsy-70", "query": "How is the NRRDA intended to assist with monitoring the progress of rural road projects, including aspects like online monitoring?", "lang": "en"}
+{"chunk_id": "pmgsy-70", "query": "राज्य सरकारों को राष्ट्रीय ग्रामीण सड़क विकास एजेंसी को किस प्रकार की 'दुर्लभ' (Rare) डेटा और जानकारी समय पर उपलब्ध कराने की आवश्यकता है?", "lang": "hi"}
+{"chunk_id": "pmgsy-73", "query": "What is the role of the Public Investment Unit (PIU) in ensuring the quality of materials and workmanship used in PMGSY road construction?", "lang": "en"}
+{"chunk_id": "pmgsy-73", "query": "Which levels of the quality control system are overseen by the State Governments, and what are their respective responsibilities?", "lang": "en"}
+{"chunk_id": "pmgsy-73", "query": "कार्य स्थल गुणवत्ता नियंत्रण प्रयोगशाला का पर्यवेक्षण करने के लिए पीआईयू की प्राथमिक जिम्मेदारी क्या है, और यह सुनिश्चित करने के लिए समय-समय पर परीक्षणों का आयोजन कैसे किया जाएगा?", "lang": "hi"}
+{"chunk_id": "pmgsy-77", "query": "Under the PMGSY scheme, what action is taken if a district or state consistently reports poor quality road construction? ", "lang": "en"}
+{"chunk_id": "pmgsy-77", "query": "If quality control issues are repeatedly flagged in a particular region, will the PMGSY project be paused for that area? ", "lang": "en"}
+{"chunk_id": "pmgsy-77", "query": "बार-बार खराब गुणवत्ता की रिपोर्ट मिलने पर PMGSY में किसी जिले के लिए कार्यक्रम को कब तक रोका जा सकता है?", "lang": "hi"}
+{"chunk_id": "pmgsy-76", "query": "What authority does the National Quality Monitoring Committee (NQM) have regarding sample collection for road construction quality assessment?", "lang": "en"}
+{"chunk_id": "pmgsy-76", "query": "How does the PIU ensure timely replacement of substandard materials or improvement of contractor performance based on NQM reports?", "lang": "en"}
+{"chunk_id": "pmgsy-76", "query": "राज्य गुणवत्ता समन्वयक (SQM) को NQM रिपोर्ट प्राप्त होने के बाद, वे किस प्रकार से कार्य की पुनः जांच करते हैं और सुधार रिपोर्ट प्राप्त करते हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-78", "query": "What specific authority does the State Quality Coordinator or PIU Head have regarding the investigation and resolution of complaints related to road construction quality?", "lang": "en"}
+{"chunk_id": "pmgsy-78", "query": "How does the SRRDA ensure that the State Quality Coordinator is effectively informed about and authorized to receive complaints regarding rural road projects?", "lang": "en"}
+{"chunk_id": "pmgsy-78", "query": "शिकायत दर्ज करने और उसका जवाब देने में राज्य गुणवत्ता समन्वयक की क्या भूमिका है, और यदि आवश्यक हो तो NRRDDA द्वारा एक NQM (गुणवत्ता निगरानीकर्ता) को नियुक्त करने की प्रक्रिया क्या है?", "lang": "hi"}
+{"chunk_id": "pmgsy-75", "query": "What is the role of independent observers, designated as National Quality Monitors, in overseeing road construction projects under the NRDA program as part of the PMGSY quality control framework?", "lang": "en"}
+{"chunk_id": "pmgsy-75", "query": "How does the Public Investment Unit (PIU) support the work of the National Quality Monitors, particularly regarding access to documentation and facilitating inspections?", "lang": "en"}
+{"chunk_id": "pmgsy-75", "query": "राष्ट्रीय गुणवत्ता निगरानीकर्ताओं द्वारा सड़क निर्माण कार्यों का निरीक्षण करते समय पीआईयू की क्या भूमिका होगी, और वे राष्ट्रीय राजमार्ग विकास अभिकरण (एनआरआरडीए) के अंतर्गत गुणवत्ता नियंत्रण ढांचे में कैसे फिट होते हैं?", "lang": "hi"}
+{"chunk_id": "pmgsy-79", "query": "What happens if the Quality Control Manager (QCM) doesn't provide a response within the stipulated timeframe?", "lang": "en"}
+{"chunk_id": "pmgsy-79", "query": "How does the National Rural Road Development Agency (NRRDA) handle delays in receiving reports from the QCM?", "lang": "en"}
+{"chunk_id": "pmgsy-79", "query": "राज्य ग्रामीण सड़क एजेंसी (एसआरआरई) मासिक रिपोर्ट कैसे बनाएगी और शिकायतों के निवारण पर राज्य स्तरीय स्थायी समिति के साथ चर्चा कैसे होगी?", "lang": "hi"}
+{"chunk_id": "pmgsy-82", "query": "What is the responsibility of the Executive Engineer or PIU regarding maintaining a reliable computer system and internet connection for data updates?", "lang": "en"}
+{"chunk_id": "pmgsy-82", "query": "How does consistent updating of data within the OMMSS system impact the release of funds for road projects by the state or district?", "lang": "en"}
+{"chunk_id": "pmgsy-82", "query": "सटीक रिकॉर्ड रखने और ओएमएमएस पर लगातार अपडेट करने के लिए कार्यकारी अभियंता/पीआईयू की क्या भूमिका है, ताकि योजनाओं का कार्यान्वयन सुचारू रूप से हो सके?", "lang": "hi"}
+{"chunk_id": "pmgsy-80", "query": "What percentage of the approved project cost is allocated for expenses related to second-level quality control monitoring, specifically including quality control costs and testing fees?", "lang": "en"}
+{"chunk_id": "pmgsy-80", "query": "Who is responsible for covering the costs associated with quality control and testing under the PMGSY quality monitoring guidelines – the contractor, the monitoring agency, or PMGSY?", "lang": "en"}
+{"chunk_id": "pmgsy-80", "query": "PMGSY गुणवत्ता नियंत्रण के लिए कुल बजट में कितनी राशि का उपयोग किया जाएगा, और यह राशि SRRDA के खाते में कैसे जमा की जाएगी?", "lang": "hi"}
+{"chunk_id": "pmgsy-81", "query": "What is the mandated process for reporting progress on PMGSY roads, and specifically, what timeline does the NRDA expect for submitting data and information?", "lang": "en"}
+{"chunk_id": "pmgsy-81", "query": "How should state-level officials manage the online management and monitoring system (OMMS), including responsibilities regarding computer hardware, software, and internet connectivity?", "lang": "en"}
+{"chunk_id": "pmgsy-81", "query": "राज्य सरकारों को ओएमएमएस के लिए आवश्यक कंप्यूटर हार्डवेयर लगाने के लिए किन संसाधनों – जैसे कर्मचारी, स्थान और सुविधाएं – की आवश्यकता होगी, और क्या राज्य सर्वर को 24 घंटे चालू रखने की जिम्मेदारी होगी?", "lang": "hi"}
